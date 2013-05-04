@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<game name="Pokemon" id="3c06c64d-514f-4b67-906d-5ae75375f318" octgnVersion="3.1.0.0" version="3.1.2.8" markersize="18" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" tags="OCTGN Pokemon" description="Only has sets for the Base, Jungle, Fossil, and Team Rocket Sets" setsurl="http://tinyurl.com/PokemonOCTGN" gameurl="http://tinyurl.com/PokemonOCTGN" authors="BlaQsrk" iconurl="https://g0.gstatic.com/android/market/com.carse.android.pokedex/hi-256-0-e86322bd73ea924706d411175db661c5b29dbd49">
+    
+	<scripts>  
+		<script src="scripts/actions.py" /> 
+	</scripts>
+	
+	<fonts>
+	</fonts>
+	
+	<proxygen definitionsrc="proxy/proxydef.xml">
+	</proxygen>
+	
+	<card back="cards/back.jpg" front="cards/front.jpg" width="63" height="88">
+		<property name="Card Type" type="String" textKind="Enum" />
+        <property name="Pokemon Type" type="String" textKind="Enum" />
+        <property name="HP" type="Integer" textKind="Enum" />
+        <property name="Pokemon Stage" type="String" textKind="Enum" />
+        <property name="Card Text" type="String" />
+        <property name="PokeBody" type="String"/>
+        <property name="PokeBody Text" type="String"/>
+        <property name="PokePower" type="String"/>
+        <property name="PokePower Text" type="String"/>
+		<property name="Ability" type="String"/>
+        <property name="AtkName1" type="String"/>
+        <property name="AtkPower1" type="String"/>
+		<property name="AtkText1" type="String"/>
+		<property name="AtkName2" type="String"/>
+		<property name="AtkPower2" type="String"/>
+		<property name="AtkText2" type="String"/>
+		<property name="AtkName3" type="String"/>
+		<property name="AtkPower3" type="String"/>
+		<property name="AtkText3" type="String"/>
+		<property name="Weakness" type="String"/>
+		<property name="Resistance" type="String"/>
+		<property name="Retreat Cost" type="String"/>
+		<property name="Energy Type" type="String" textKind="Enum" />
+		<property name="Rarity" type="String"/>
+	</card>
+	
+    <table name="Table" visibility="undefined" ordered="False" width="800" height="650" board="background/Simulated_Wood.jpg" boardPosition="0,0,0,0" background="background/Simulated_Wood.jpg" backgroundStyle="stretch">
+     	<groupaction menu="Flip a Coin" execute="flipCoin" /> <!-- Working !-->
+        <groupaction menu="Respond" shortcut="Enter" execute="respond"/> <!-- Working !-->
+        <cardaction menu="Flip" execute="turn"/>  <!-- Working !-->
+        <cardaction menu="Activate Poke-Power" shortcut="ctrl+s" execute="pokepower" /> <!-- Working !-->
+		<cardaction menu="Activate Ability" execute="ability" /> <!-- Working !-->
+		<cardaction menu="Attack" shortcut="ctrl+a" execute="atk" /> <!-- Working !-->
+        <cardactions menu="Special Conditions ...">
+            <cardaction menu="Poison Pokemon" execute="addPoisonMarker"/> <!-- Working !-->
+			<cardaction menu="Burn Pokemon" execute="addBurnMarker"/> <!-- Working !-->
+			<cardaction menu="Sleep Pokemon" execute="sleep"/> <!-- Working !-->
+			<cardaction menu="Confuse Pokemon" execute="confuse"/> <!-- Working !-->
+			<cardaction menu="Paralyze Pokemon" execute="paralyze"/> <!-- Working !-->
+			<cardaction menu="Remove Any Special Condition" execute="heal"/> <!-- Working !-->
+			<cardaction menu="Others" batchExecute="addMarker"/> <!-- Working !-->
+        </cardactions>
+		<cardactions menu="Special Conditions Checks ...">
+            <cardaction menu="Poison Check" execute="poisonCheck"/>  <!-- Buggy !-->
+			<cardaction menu="Burn Check" execute="burnCheck"/> <!-- Buggy !-->
+			<cardaction menu="Sleep Check" execute="sleepCheck"/> <!-- Working !-->
+		</cardactions>
+		<!--
+		<cardactions menu="Elements, Weakness, and Resistance ..."> 
+			<cardactions menu="Elements ...">
+				<cardaction menu="Change to Fire Element" execute="addFireMarker"/>
+				<cardaction menu="Change to Water Element" execute="addWaterMarker"/>
+				<cardaction menu="Change to Grass Element" execute="addGrassMarker"/>
+				<cardaction menu="Change to Lightning Element" execute="addLightningMarker"/>
+				<cardaction menu="Change to Fighting Element" execute="addFightingMarker"/>
+				<cardaction menu="Change to Psychic Element" execute="addPsychicMarker"/>
+			</cardactions>
+			
+			<cardactions menu="Weaknesses ...">
+				<cardaction menu="Change to Fire Weakness" execute="addFireWeakMarker"/>
+				<cardaction menu="Change to Water Weakness" execute="addWaterWeakMarker"/>
+				<cardaction menu="Change to Grass Weakness" execute="addGrassWeakMarker"/>
+				<cardaction menu="Change to Lightning Weakness" execute="addLightningWeakMarker"/>
+				<cardaction menu="Change to Fighting Weakness" execute="addFightingWeakMarker"/>
+				<cardaction menu="Change to Psychic Weakness" execute="addPsychicWeakMarker"/>
+			</cardactions>
+			
+			<cardactions menu="Resistances ...">
+				<cardaction menu="Change to Fire Resistance" execute="addFireResistMarker"/>
+				<cardaction menu="Change to Water Resistance" execute="addWaterResistMarker"/>
+				<cardaction menu="Change to Grass Resistance" execute="addGrassResistMarker"/>
+				<cardaction menu="Change to Lightning Resistance" execute="addLightningResistMarker"/>
+				<cardaction menu="Change to Fighting Resistance" execute="addFightingResistMarker"/>
+				<cardaction menu="Change to Psychic Resistance" execute="addPsychicResistMarker"/>
+			</cardactions>
+		</cardactions>
+		!-->
+		<cardaction menu="Discard Card" shortcut="del" execute="ko" /> <!-- Working !-->
+        <cardaction menu="Move to Lost Zone" execute="moveToLostZone" /> <!-- Working But Incorrect Pointer? Displaying Wrong Text !-->
+        <cardaction menu="Add X Damage to Pokemon" shortcut="ctrl+d" execute="addDamageMarker" /> <!-- Buggy !-->
+        <groupaction menu="Clear Targets and Battle" shortcut="esc" execute="clearAll" />    <!-- Working But no idea what it does!-->
+	</table>
+	
+    <player summary="Hand: {#HandCount} / Prizes: {#PrizeCount}">
+		<counter name="HandCount" icon="groups/hand.png" />
+		<counter name="PrizeCount" icon="groups/prizes.png" />
+		
+        <hand name="Hand" shortcut="ctrl+H" visibility="me" ordered="False" width="63" height="88" icon="groups/hand.png">
+            <cardaction menu="Play Face-Down" execute="playFaceDown" /> <!-- Working !-->
+            <cardaction menu="Discard Card" shortcut="del" execute="discard" /> <!-- Working !-->
+            <cardaction menu="Send to Lost Zone" shortcut="ctrl+E" execute="moveToLostZoneHand" /> <!-- Working!-->
+            <groupaction menu="Mulligan" shortcut="ctrl+M" execute="mulligan" /> <!-- Working !-->
+            <groupaction menu="Random Discard" shortcut="ctrl+W" execute="randomDiscard" /> <!-- Working !-->
+        </hand>
+        
+		<group name="Deck" shortcut="ctrl+I" visibility="none" width="63" height="88" icon="groups/deck.png">
+            <groupaction menu="Draw" shortcut="ctrl+D" default="True" execute="draw" /> <!-- Working !-->
+            <groupaction menu="Draw X Cards" shortcut="ctrl+shift+D" execute="drawMany" /> <!-- Working !-->
+			<groupaction menu="Send Top X Cards to the Discard Pile" execute="mill" /> <!-- Working !-->
+            <groupaction menu="Send Top X to the Lost Zone" execute="sendToLostZone" /> <!-- Working !-->
+            <groupaction menu="Shuffle" shortcut="ctrl+S" execute="shuffle" /> <!-- Working? Needs Bugfix !-->
+			<groupaction menu="Set Prizes" execute="setPrizes" />
+        </group>
+        
+		<group name="Discard Pile" shortcut="del" visibility="all" width="63" height="88" icon="groups/discardpile.png">
+        </group>
+        
+		<group name="Lost Zone" shortcut="ctrl+E" visibility="all" width="63" height="88" icon="groups/lostzone.png" collapsed="True">
+        </group>
+		
+		<group name="Prizes Zone" shortcut="ctrl+E" visibility="none" width="63" height="88" icon="groups/prizes.png">
+		    <groupaction menu="Claim Prize" default="True" execute="claimPrize" />
+			<groupaction menu="Shuffle Prizes" execute="shufflePrizeCards" />
+		</group>
+		
+    </player>
+	
+	<deck>
+		<section name="Main" group="Deck" />
+	</deck>
+
+</game>

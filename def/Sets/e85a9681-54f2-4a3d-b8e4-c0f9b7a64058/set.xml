@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<set name="00_Markers" id="e85a9681-54f2-4a3d-b8e4-c0f9b7a64058" gameId="3c06c64d-514f-4b67-906d-5ae75375f318" gameVersion="3.1.0.3" version="3.0.2">
+  <markers>
+    <marker id="afd04701-8db9-4220-a38a-381e9c6b0e49" name="burn" />
+    <marker id="54d7beba-c2aa-4ee8-973a-e8480a45b4da" name="poison" />
+	<marker id="9decdb60-fbd4-46bb-bf40-5f2bc5faeb68" name="damage" />
+	<marker id="4094170b-5d6f-4f79-8c75-1228cda7b3b3" name="faint" />
+	<marker id="28ca9176-a101-4697-9e41-ee1c43c2971c" name="toxic" />
+	
+	<marker id="61b9a3f6-c897-4606-90af-3bad41dd5e98" name="fire-elem" />
+	<marker id="deef855e-07a2-4496-b184-36060d23866f" name="water-elem"  />
+	<marker id="960b9c0b-2b25-4092-a1c9-6293b1520061" name="grass-elem"  />
+	<marker id="0b059eea-c344-486e-8162-21d2d6c11c87" name="lightning-elem" />	
+	<marker id="f1781859-2d55-41b0-8e70-f343fe849a49" name="fighting-elem"  />
+	<marker id="75cf2b14-ba61-4601-ad7b-98e004bfc391" name="psychic-elem"  />	
+	<!-- <marker id="b6b600f3-e7a8-4445-8ec2-53819d97c1c6" name="colorless-elem"  /> !-->
+	<marker id="0d9b6b64-a0bf-4b09-a615-a5cff1644c4a" name="fire-resist"  />
+	<marker id="828bd2a0-60be-45b9-8475-f11554e1bca3" name="water-resist"  />
+	<marker id="880123d4-c288-44d9-b3b1-aebe4c789f81" name="grass-resist"  />
+	<marker id="9d36cf62-d9a8-40ae-b61c-8847516d03be" name="lightning-resist"  />
+	<marker id="3df4a4a6-fd52-46b2-9b74-c6b05ba895b7" name="fighting-resist"  />
+	<marker id="0bcffdc6-7ece-437f-818d-99dea921bcc2" name="psychic-resist"  />
+	<!-- <marker id="3e2249b7-5c28-4c8c-9066-5ab84c31b1fe" name="colorless-resist"  /> !-->
+	<marker id="1deb3488-b7b6-4179-91ea-2bbba10f84b1" name="fire-weakness"  />
+	<marker id="913b4d99-920d-426b-a8a1-e4703b690bcc" name="water-weakness"  />
+	<marker id="c23d3df5-b8c2-4bc9-8e38-b8956814d06e" name="grass-weakness"  />
+	<marker id="99a3d0ba-c86d-48a5-ae96-32f3e6b805c9" name="lightning-weakness"  />
+	<marker id="94a6319f-8dcc-4930-8d22-80febbbcfeda" name="fighting-weakness"  />
+	<marker id="b9027080-75cd-4f3e-80f6-3a3d87de3698" name="psychic-weakness"  />
+	<!-- <marker id="2f427717-7dc0-47ad-8735-0af45daa9827" name="colorless-weakness"  /> !-->
+	
+  </markers>
+</set>

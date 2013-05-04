@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<templates>
+	
+	<blocks>
+		<!-- Dummy blocks used if a template section only looks for conditionals -->
+		<block type="overlay" id="dummyOverlay" src="proxy/proxyImages/dummy.png">
+			<location x="0" y="0" /> 
+		</block>
+		<block type="text" id="dummyText">
+			<location x="0" y="0" />
+			<text color="#FFFFFF" size="0" />
+			<border color="#FFFFFF" size="0" />
+		</block>
+		<block type="text" id="default">
+			<location x="10" y="25" />
+			<text color="#000000" size="30" />
+		</block>
+	</blocks>
+	
+	<!-- Default template -->
+	<template src="proxy/proxyImages/unknownCard.jpg" default="True">
+		<matches>
+			<match name="dummy" value="dummy" />
+		</matches>
+		<overlayblocks>
+			<link block="dummyOverlay" />
+		</overlayblocks>
+		<textblocks>
+			<link block="default">
+				<property name="Name" />
+			</link>
+			<link block="dummyText" />
+		</textblocks>
+	</template>
+		
+</templates>

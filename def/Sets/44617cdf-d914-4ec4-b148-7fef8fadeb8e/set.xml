@@ -1,0 +1,2657 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<set xmlns:noNamespaceSchemaLocation="CardSet.xsd" name="01_Base Set" id="44617cdf-d914-4ec4-b148-7fef8fadeb8e" gameId="3c06c64d-514f-4b67-906d-5ae75375f318" gameVersion="3.1.0.1" version="3.0">
+	<cards>
+		<card id="cb5203b5-c128-4776-a8ae-0426c2b0de52" name="Alakazam">
+			<property name="Card Type" value="Pokemon" />
+			<property name="Pokemon Type" value="Psychic" />
+			<property name="HP" value="80" />
+			<property name="Pokemon Stage" value="Basic" />
+			<property name="Card Text" value="" />
+			<property name="PokeBody" value="0" />
+			<property name="PokeBody Text" value="" />
+			<property name="PokePower" value="Damage Swap" />
+			<property name="PokePower Text" value="" />
+			<property name="Ability" value="" />
+			<property name="AtkName1" value="Confuse Ray" />
+			<property name="AtkPower1" value="" />
+			<property name="AtkText1" value="" />
+			<property name="AtkName2" value="0" />
+			<property name="AtkPower2" value="" />
+			<property name="AtkText2" value="" />
+			<property name="AtkName3" value="0" />
+			<property name="AtkPower3" value="" />
+			<property name="AtkText3" value="" />
+			<property name="Weakness" value="Psychic x 2" />
+			<property name="Resistance" value="" />
+			<property name="Retreat Cost" value="3" />
+			<property name="Energy Type" value="" />
+			<property name="Rarity" value="Rare" />
+		</card>
+		<card id="2bc0ba9d-99f3-4d6a-a305-5de7ea5b536f" name="Blastoise">
+			<property name="Card Type" value="Pokemon" />
+			<property name="Pokemon Type" value="Water" />
+			<property name="HP" value="100" />
+			<property name="Pokemon Stage" value="Stage 2" />
+			<property name="Card Text" value="" />
+			<property name="PokeBody" value="0" />
+			<property name="PokeBody Text" value="" />
+			<property name="PokePower" value="Rain Dance" />
+			<property name="PokePower Text" value="" />
+			<property name="Ability" value="" />
+			<property name="AtkName1" value="Hydro Pump" />
+			<property name="AtkPower1" value="" />
+			<property name="AtkText1" value="" />
+			<property name="AtkName2" value="0" />
+			<property name="AtkPower2" value="" />
+			<property name="AtkText2" value="" />
+			<property name="AtkName3" value="0" />
+			<property name="AtkPower3" value="" />
+			<property name="AtkText3" value="" />
+			<property name="Weakness" value="Lightning x 2" />
+			<property name="Resistance" value="" />
+			<property name="Retreat Cost" value="3" />
+			<property name="Energy Type" value="" />
+			<property name="Rarity" value="Rare" />
+		</card>
+		<card id="a84f9081-3bd1-43b4-aaef-dd356dd024dc" name="Chansey">
+			<property name="Card Type" value="Pokemon" />
+			<property name="Pokemon Type" value="Colorless" />
+			<property name="HP" value="120" />
+			<property name="Pokemon Stage" value="Basic" />
+			<property name="Card Text" value="" />
+			<property name="PokeBody" value="0" />
+			<property name="PokeBody Text" value="" />
+			<property name="PokePower" value="0" />
+			<property name="PokePower Text" value="" />
+			<property name="Ability" value="" />
+			<property name="AtkName1" value="Scrunch" />
+			<property name="AtkPower1" value="" />
+			<property name="AtkText1" value="" />
+			<property name="AtkName2" value="Double-edge" />
+			<property name="AtkPower2" value="" />
+			<property name="AtkText2" value="" />
+			<property name="AtkName3" value="0" />
+			<property name="AtkPower3" value="" />
+			<property name="AtkText3" value="" />
+			<property name="Weakness" value="Fighting x 2" />
+			<property name="Resistance" value="Psychic - 30" />
+			<property name="Retreat Cost" value="1" />
+			<property name="Energy Type" value="" />
+			<property name="Rarity" value="Rare" />
+		</card>
+		<card id="118e32f3-e9e7-4756-ad2e-4af9d7dfe44f" name="Charizard">
+			<property name="Card Type" value="Pokemon" />
+			<property name="Pokemon Type" value="Fire" />
+			<property name="HP" value="120" />
+			<property name="Pokemon Stage" value="Stage 2" />
+			<property name="Card Text" value="" />
+			<property name="PokeBody" value="0" />
+			<property name="PokeBody Text" value="" />
+			<property name="PokePower" value="Energy Burn" />
+			<property name="PokePower Text" value="" />
+			<property name="Ability" value="" />
+			<property name="AtkName1" value="Fire Spin" />
+			<property name="AtkPower1" value="" />
+			<property name="AtkText1" value="" />
+			<property name="AtkName2" value="0" />
+			<property name="AtkPower2" value="" />
+			<property name="AtkText2" value="" />
+			<property name="AtkName3" value="0" />
+			<property name="AtkPower3" value="" />
+			<property name="AtkText3" value="" />
+			<property name="Weakness" value="Water x 2" />
+			<property name="Resistance" value="Fighting - 30" />
+			<property name="Retreat Cost" value="3" />
+			<property name="Energy Type" value="" />
+			<property name="Rarity" value="Rare" />
+		</card>
+		<card id="9bb565fe-2028-42d7-bcbe-96a5da96fef7" name="Clefairy">
+			<property name="Card Type" value="Pokemon" />
+			<property name="Pokemon Type" value="Colorless" />
+			<property name="HP" value="40" />
+			<property name="Pokemon Stage" value="Basic" />
+			<property name="Card Text" value="" />
+			<property name="PokeBody" value="0" />
+			<property name="PokeBody Text" value="" />
+			<property name="PokePower" value="0" />
+			<property name="PokePower Text" value="" />
+			<property name="Ability" value="" />
+			<property name="AtkName1" value="Sing" />
+			<property name="AtkPower1" value="" />
+			<property name="AtkText1" value="" />
+			<property name="AtkName2" value="Metronome" />
+			<property name="AtkPower2" value="" />
+			<property name="AtkText2" value="" />
+			<property name="AtkName3" value="0" />
+			<property name="AtkPower3" value="" />
+			<property name="AtkText3" value="" />
+			<property name="Weakness" value="Fighting x 2" />
+			<property name="Resistance" value="Psychic - 30" />
+			<property name="Retreat Cost" value="1" />
+			<property name="Energy Type" value="" />
+			<property name="Rarity" value="Rare" />
+		</card>
+		<card id="b94fc48e-ab47-4649-a4c2-30b998ea4958" name="Gyarados">
+			<property name="Card Type" value="Pokemon" />
+			<property name="Pokemon Type" value="Water" />
+			<property name="HP" value="100" />
+			<property name="Pokemon Stage" value="Stage 1" />
+			<property name="Card Text" value="" />
+			<property name="PokeBody" value="0" />
+			<property name="PokeBody Text" value="" />
+			<property name="PokePower" value="0" />
+			<property name="PokePower Text" value="" />
+			<property name="Ability" value="" />
+			<property name="AtkName1" value="Dragon Rage" />
+			<property name="AtkPower1" value="" />
+			<property name="AtkText1" value="" />
+			<property name="AtkName2" value="Bubblebeam" />
+			<property name="AtkPower2" value="" />
+			<property name="AtkText2" value="" />
+			<property name="AtkName3" value="0" />
+			<property name="AtkPower3" value="" />
+			<property name="AtkText3" value="" />
+			<property name="Weakness" value="Grass x 2" />
+			<property name="Resistance" value="Fighting - 30" />
+			<property name="Retreat Cost" value="3" />
+			<property name="Energy Type" value="" />
+			<property name="Rarity" value="Rare" />
+		</card>
+		<card id="74a66daa-3105-4d39-bd93-f55f0c325151" name="Hitmonchan">
+			<property name="Card Type" value="Pokemon" />
+			<property name="Pokemon Type" value="Fighting" />
+			<property name="HP" value="70" />
+			<property name="Pokemon Stage" value="Basic" />
+			<property name="Card Text" value="" />
+			<property name="PokeBody" value="0" />
+			<property name="PokeBody Text" value="" />
+			<property name="PokePower" value="0" />
+			<property name="PokePower Text" value="" />
+			<property name="Ability" value="" />
+			<property name="AtkName1" value="Jab" />
+			<property name="AtkPower1" value="" />
+			<property name="AtkText1" value="" />
+			<property name="AtkName2" value="Special Punch" />
+			<property name="AtkPower2" value="" />
+			<property name="AtkText2" value="" />
+			<property name="AtkName3" value="0" />
+			<property name="AtkPower3" value="" />
+			<property name="AtkText3" value="" />
+			<property name="Weakness" value="Psychic x 2" />
+			<property name="Resistance" value="" />
+			<property name="Retreat Cost" value="2" />
+			<property name="Energy Type" value="" />
+			<property name="Rarity" value="Rare" />
+		</card>
+		<card id="d2381872-2b4e-428a-88da-f0769fb40529" name="Machamp">
+			<property name="Card Type" value="Pokemon" />
+			<property name="Pokemon Type" value="Fighting" />
+			<property name="HP" value="100" />
+			<property name="Pokemon Stage" value="Stage 2" />
+			<property name="Card Text" value="" />
+			<property name="PokeBody" value="0" />
+			<property name="PokeBody Text" value="" />
+			<property name="PokePower" value="Strikes Back" />
+			<property name="PokePower Text" value="" />
+			<property name="Ability" value="" />
+			<property name="AtkName1" value="Seismic Toss" />
+			<property name="AtkPower1" value="" />
+			<property name="AtkText1" value="" />
+			<property name="AtkName2" value="0" />
+			<property name="AtkPower2" value="" />
+			<property name="AtkText2" value="" />
+			<property name="AtkName3" value="0" />
+			<property name="AtkPower3" value="" />
+			<property name="AtkText3" value="" />
+			<property name="Weakness" value="Psychic x 2" />
+			<property name="Resistance" value="" />
+			<property name="Retreat Cost" value="3" />
+			<property name="Energy Type" value="" />
+			<property name="Rarity" value="Rare" />
+		</card>
+		<card id="f573fc91-0b32-4530-94cc-e1f9b9978830" name="Magneton">
+			<property name="Card Type" value="Pokemon" />
+			<property name="Pokemon Type" value="Lightning" />
+			<property name="HP" value="60" />
+			<property name="Pokemon Stage" value="Stage 1" />
+			<property name="Card Text" value="" />
+			<property name="PokeBody" value="0" />
+			<property name="PokeBody Text" value="" />
+			<property name="PokePower" value="0" />
+			<property name="PokePower Text" value="" />
+			<property name="Ability" value="" />
+			<property name="AtkName1" value="Thunder Wave" />
+			<property name="AtkPower1" value="" />
+			<property name="AtkText1" value="" />
+			<property name="AtkName2" value="Selfdestruct" />
+			<property name="AtkPower2" value="" />
+			<property name="AtkText2" value="" />
+			<property name="AtkName3" value="0" />
+			<property name="AtkPower3" value="" />
+			<property name="AtkText3" value="" />
+			<property name="Weakness" value="Fighting x 2" />
+			<property name="Resistance" value="" />
+			<property name="Retreat Cost" value="1" />
+			<property name="Energy Type" value="" />
+			<property name="Rarity" value="Rare" />
+		</card>
+		<card id="b95783cb-14ea-4b03-90f0-fb67beb6d3c6" name="Mewtwo">
+			<property name="Card Type" value="Pokemon" />
+			<property name="Pokemon Type" value="Psychic" />
+			<property name="HP" value="60" />
+			<property name="Pokemon Stage" value="Basic" />
+			<property name="Card Text" value="" />
+			<property name="PokeBody" value="0" />
+			<property name="PokeBody Text" value="" />
+			<property name="PokePower" value="0" />
+			<property name="PokePower Text" value="" />
+			<property name="Ability" value="" />
+			<property name="AtkName1" value="Psychic" />
+			<property name="AtkPower1" value="" />
+			<property name="AtkText1" value="" />
+			<property name="AtkName2" value="Barrier" />
+			<property name="AtkPower2" value="" />
+			<property name="AtkText2" value="" />
+			<property name="AtkName3" value="0" />
+			<property name="AtkPower3" value="" />
+			<property name="AtkText3" value="" />
+			<property name="Weakness" value="Psychic x 2" />
+			<property name="Resistance" value="" />
+			<property name="Retreat Cost" value="3" />
+			<property name="Energy Type" value="" />
+			<property name="Rarity" value="Rare" />
+		</card>
+		<card id="f6878d59-8627-4be8-81b5-630c1e7121e5" name="Nidoking">
+			<property name="Card Type" value="Pokemon" />
+			<property name="Pokemon Type" value="Grass" />
+			<property name="HP" value="90" />
+			<property name="Pokemon Stage" value="Stage 2" />
+			<property name="Card Text" value="" />
+			<property name="PokeBody" value="0" />
+			<property name="PokeBody Text" value="" />
+			<property name="PokePower" value="0" />
+			<property name="PokePower Text" value="" />
+			<property name="Ability" value="" />
+			<property name="AtkName1" value="Thrash" />
+			<property name="AtkPower1" value="" />
+			<property name="AtkText1" value="" />
+			<property name="AtkName2" value="Toxic" />
+			<property name="AtkPower2" value="" />
+			<property name="AtkText2" value="" />
+			<property name="AtkName3" value="0" />
+			<property name="AtkPower3" value="" />
+			<property name="AtkText3" value="" />
+			<property name="Weakness" value="Psychic" />
+			<property name="Resistance" value="" />
+			<property name="Retreat Cost" value="3" />
+			<property name="Energy Type" value="" />
+			<property name="Rarity" value="Rare" />
+		</card>
+		<card id="f9852cc7-adee-4c74-8c0b-c6248d69ec7a" name="Ninetales">
+			<property name="Card Type" value="Pokemon" />
+			<property name="Pokemon Type" value="Fire" />
+			<property name="HP" value="80" />
+			<property name="Pokemon Stage" value="Stage 1" />
+			<property name="Card Text" value="" />
+			<property name="PokeBody" value="0" />
+			<property name="PokeBody Text" value="" />
+			<property name="PokePower" value="0" />
+			<property name="PokePower Text" value="" />
+			<property name="Ability" value="" />
+			<property name="AtkName1" value="Lure" />
+			<property name="AtkPower1" value="" />
+			<property name="AtkText1" value="" />
+			<property name="AtkName2" value="Fire Blast" />
+			<property name="AtkPower2" value="" />
+			<property name="AtkText2" value="" />
+			<property name="AtkName3" value="0" />
+			<property name="AtkPower3" value="" />
+			<property name="AtkText3" value="" />
+			<property name="Weakness" value="Water x 2" />
+			<property name="Resistance" value="" />
+			<property name="Retreat Cost" value="1" />
+			<property name="Energy Type" value="" />
+			<property name="Rarity" value="Rare" />
+		</card>
+		<card id="f2ab22e9-60b3-4eef-afec-453092b9cb1c" name="Poliwrath">
+			<property name="Card Type" value="Pokemon" />
+			<property name="Pokemon Type" value="Water" />
+			<property name="HP" value="90" />
+			<property name="Pokemon Stage" value="Stage 2" />
+			<property name="Card Text" value="" />
+			<property name="PokeBody" value="0" />
+			<property name="PokeBody Text" value="" />
+			<property name="PokePower" value="0" />
+			<property name="PokePower Text" value="" />
+			<property name="Ability" value="" />
+			<property name="AtkName1" value="Water Gun" />
+			<property name="AtkPower1" value="" />
+			<property name="AtkText1" value="" />
+			<property name="AtkName2" value="Whirlpool" />
+			<property name="AtkPower2" value="" />
+			<property name="AtkText2" value="" />
+			<property name="AtkName3" value="0" />
+			<property name="AtkPower3" value="" />
+			<property name="AtkText3" value="" />
+			<property name="Weakness" value="Grass x 2" />
+			<property name="Resistance" value="" />
+			<property name="Retreat Cost" value="3" />
+			<property name="Energy Type" value="" />
+			<property name="Rarity" value="Rare" />
+		</card>
+		<card id="6b7570a9-4e28-452a-9835-cd70ad64090c" name="Raichu">
+			<property name="Card Type" value="Pokemon" />
+			<property name="Pokemon Type" value="Lightning" />
+			<property name="HP" value="80" />
+			<property name="Pokemon Stage" value="Stage 1" />
+			<property name="Card Text" value="" />
+			<property name="PokeBody" value="0" />
+			<property name="PokeBody Text" value="" />
+			<property name="PokePower" value="0" />
+			<property name="PokePower Text" value="" />
+			<property name="Ability" value="" />
+			<property name="AtkName1" value="Agility" />
+			<property name="AtkPower1" value="" />
+			<property name="AtkText1" value="" />
+			<property name="AtkName2" value="Thunder" />
+			<property name="AtkPower2" value="" />
+			<property name="AtkText2" value="" />
+			<property name="AtkName3" value="0" />
+			<property name="AtkPower3" value="" />
+			<property name="AtkText3" value="" />
+			<property name="Weakness" value="Fighting x 2" />
+			<property name="Resistance" value="" />
+			<property name="Retreat Cost" value="1" />
+			<property name="Energy Type" value="" />
+			<property name="Rarity" value="Rare" />
+		</card>
+		<card id="292ba0f2-add5-4443-b942-fb8a95835ec5" name="Venusaur">
+			<property name="Card Type" value="Pokemon" />
+			<property name="Pokemon Type" value="Grass" />
+			<property name="HP" value="100" />
+			<property name="Pokemon Stage" value="Stage 2" />
+			<property name="Card Text" value="" />
+			<property name="PokeBody" value="0" />
+			<property name="PokeBody Text" value="" />
+			<property name="PokePower" value="Energy Trans" />
+			<property name="PokePower Text" value="" />
+			<property name="Ability" value="" />
+			<property name="AtkName1" value="Solarbeam" />
+			<property name="AtkPower1" value="" />
+			<property name="AtkText1" value="" />
+			<property name="AtkName2" value="0" />
+			<property name="AtkPower2" value="" />
+			<property name="AtkText2" value="" />
+			<property name="AtkName3" value="0" />
+			<property name="AtkPower3" value="" />
+			<property name="AtkText3" value="" />
+			<property name="Weakness" value="Fire x 2" />
+			<property name="Resistance" value="" />
+			<property name="Retreat Cost" value="2" />
+			<property name="Energy Type" value="" />
+			<property name="Rarity" value="Rare" />
+		</card>
+		<card id="3b53c53c-7a5b-4fde-aaea-b1608e010573" name="Zapdos">
+			<property name="Card Type" value="Pokemon" />
+			<property name="Pokemon Type" value="Lightning" />
+			<property name="HP" value="90" />
+			<property name="Pokemon Stage" value="Basic" />
+			<property name="Card Text" value="" />
+			<property name="PokeBody" value="0" />
+			<property name="PokeBody Text" value="" />
+			<property name="PokePower" value="0" />
+			<property name="PokePower Text" value="" />
+			<property name="Ability" value="" />
+			<property name="AtkName1" value="Thunder" />
+			<property name="AtkPower1" value="" />
+			<property name="AtkText1" value="" />
+			<property name="AtkName2" value="Thunderbolt" />
+			<property name="AtkPower2" value="" />
+			<property name="AtkText2" value="" />
+			<property name="AtkName3" value="0" />
+			<property name="AtkPower3" value="" />
+			<property name="AtkText3" value="" />
+			<property name="Weakness" value="" />
+			<property name="Resistance" value="Fighting - 30" />
+			<property name="Retreat Cost" value="3" />
+			<property name="Energy Type" value="" />
+			<property name="Rarity" value="Rare" />
+		</card>
+		<card id="6f645ba5-b4ee-4c64-956b-7c87a5af930a" name="Beedrill">
+			<property name="Card Type" value="Pokemon" />
+			<property name="Pokemon Type" value="Grass" />
+			<property name="HP" value="80" />
+			<property name="Pokemon Stage" value="Stage 2" />
+			<property name="Card Text" value="" />
+			<property name="PokeBody" value="0" />
+			<property name="PokeBody Text" value="" />
+			<property name="PokePower" value="0" />
+			<property name="PokePower Text" value="" />
+			<property name="Ability" value="" />
+			<property name="AtkName1" value="Twinneedle" />
+			<property name="AtkPower1" value="" />
+			<property name="AtkText1" value="" />
+			<property name="AtkName2" value="Poison Sting" />
+			<property name="AtkPower2" value="" />
+			<property name="AtkText2" value="" />
+			<property name="AtkName3" value="0" />
+			<property name="AtkPower3" value="" />
+			<property name="AtkText3" value="" />
+			<property name="Weakness" value="Fire x 2" />
+			<property name="Resistance" value="Fighting - 30" />
+			<property name="Retreat Cost" value="0" />
+			<property name="Energy Type" value="" />
+			<property name="Rarity" value="Rare" />
+		</card>
+		<card id="1530c6bf-5229-48aa-93c0-2e5db1f86378" name="Dragonair">
+			<property name="Card Type" value="Pokemon" />
+			<property name="Pokemon Type" value="Colorless" />
+			<property name="HP" value="80" />
+			<property name="Pokemon Stage" value="Stage 1" />
+			<property name="Card Text" value="" />
+			<property name="PokeBody" value="0" />
+			<property name="PokeBody Text" value="" />
+			<property name="PokePower" value="0" />
+			<property name="PokePower Text" value="" />
+			<property name="Ability" value="" />
+			<property name="AtkName1" value="Slam" />
+			<property name="AtkPower1" value="" />
+			<property name="AtkText1" value="" />
+			<property name="AtkName2" value="Hyper Beam" />
+			<property name="AtkPower2" value="" />
+			<property name="AtkText2" value="" />
+			<property name="AtkName3" value="0" />
+			<property name="AtkPower3" value="" />
+			<property name="AtkText3" value="" />
+			<property name="Weakness" value="" />
+			<property name="Resistance" value="Psychic - 30" />
+			<property name="Retreat Cost" value="2" />
+			<property name="Energy Type" value="" />
+			<property name="Rarity" value="Rare" />
+		</card>
+		<card id="12dd28a9-21c6-4dcc-9796-6be18626fa12" name="Dugtrio">
+			<property name="Card Type" value="Pokemon" />
+			<property name="Pokemon Type" value="Fighting" />
+			<property name="HP" value="70" />
+			<property name="Pokemon Stage" value="Stage 1" />
+			<property name="Card Text" value="" />
+			<property name="PokeBody" value="0" />
+			<property name="PokeBody Text" value="" />
+			<property name="PokePower" value="0" />
+			<property name="PokePower Text" value="" />
+			<property name="Ability" value="" />
+			<property name="AtkName1" value="Slash" />
+			<property name="AtkPower1" value="" />
+			<property name="AtkText1" value="" />
+			<property name="AtkName2" value="Earthquake" />
+			<property name="AtkPower2" value="" />
+			<property name="AtkText2" value="" />
+			<property name="AtkName3" value="0" />
+			<property name="AtkPower3" value="" />
+			<property name="AtkText3" value="" />
+			<property name="Weakness" value="Grass x 2" />
+			<property name="Resistance" value="Lightning - 30" />
+			<property name="Retreat Cost" value="2" />
+			<property name="Energy Type" value="" />
+			<property name="Rarity" value="Rare" />
+		</card>
+		<card id="9545331c-81ed-4a6a-8963-1bcca79b543a" name="Electabuzz">
+			<property name="Card Type" value="Pokemon" />
+			<property name="Pokemon Type" value="Lightning" />
+			<property name="HP" value="70" />
+			<property name="Pokemon Stage" value="Basic" />
+			<property name="Card Text" value="" />
+			<property name="PokeBody" value="0" />
+			<property name="PokeBody Text" value="" />
+			<property name="PokePower" value="0" />
+			<property name="PokePower Text" value="" />
+			<property name="Ability" value="" />
+			<property name="AtkName1" value="Thundershock" />
+			<property name="AtkPower1" value="" />
+			<property name="AtkText1" value="" />
+			<property name="AtkName2" value="Thunderpunch" />
+			<property name="AtkPower2" value="" />
+			<property name="AtkText2" value="" />
+			<property name="AtkName3" value="0" />
+			<property name="AtkPower3" value="" />
+			<property name="AtkText3" value="" />
+			<property name="Weakness" value="Fighting x 2" />
+			<property name="Resistance" value="" />
+			<property name="Retreat Cost" value="2" />
+			<property name="Energy Type" value="" />
+			<property name="Rarity" value="Rare" />
+		</card>
+		<card id="e376a66b-ca67-41ab-9472-6855f13dc1e6" name="Electrode">
+			<property name="Card Type" value="Pokemon" />
+			<property name="Pokemon Type" value="Lightning" />
+			<property name="HP" value="80" />
+			<property name="Pokemon Stage" value="Stage 1" />
+			<property name="Card Text" value="" />
+			<property name="PokeBody" value="0" />
+			<property name="PokeBody Text" value="" />
+			<property name="PokePower" value="Buzzap" />
+			<property name="PokePower Text" value="" />
+			<property name="Ability" value="" />
+			<property name="AtkName1" value="Electric Shock" />
+			<property name="AtkPower1" value="" />
+			<property name="AtkText1" value="" />
+			<property name="AtkName2" value="0" />
+			<property name="AtkPower2" value="" />
+			<property name="AtkText2" value="" />
+			<property name="AtkName3" value="0" />
+			<property name="AtkPower3" value="" />
+			<property name="AtkText3" value="" />
+			<property name="Weakness" value="Fighting x 2" />
+			<property name="Resistance" value="0" />
+			<property name="Retreat Cost" value="1" />
+			<property name="Energy Type" value="" />
+			<property name="Rarity" value="Rare" />
+		</card>
+		<card id="b2af9f9b-253c-46ff-9530-7d5e58301557" name="Pidgeotto">
+			<property name="Card Type" value="Pokemon" />
+			<property name="Pokemon Type" value="Colorless" />
+			<property name="HP" value="60" />
+			<property name="Pokemon Stage" value="Stage 1" />
+			<property name="Card Text" value="" />
+			<property name="PokeBody" value="0" />
+			<property name="PokeBody Text" value="" />
+			<property name="PokePower" value="0" />
+			<property name="PokePower Text" value="" />
+			<property name="Ability" value="" />
+			<property name="AtkName1" value="Whirlwind" />
+			<property name="AtkPower1" value="" />
+			<property name="AtkText1" value="" />
+			<property name="AtkName2" value="Mirror Move" />
+			<property name="AtkPower2" value="" />
+			<property name="AtkText2" value="" />
+			<property name="AtkName3" value="0" />
+			<property name="AtkPower3" value="" />
+			<property name="AtkText3" value="" />
+			<property name="Weakness" value="Lighting x 2" />
+			<property name="Resistance" value="Fighting - 30" />
+			<property name="Retreat Cost" value="1" />
+			<property name="Energy Type" value="" />
+			<property name="Rarity" value="Rare" />
+		</card>
+		<card id="df0b3ac6-fd72-4bfe-b2e6-39b16879b8c4" name="Arcanine">
+			<property name="Card Type" value="Pokemon" />
+			<property name="Pokemon Type" value="Fire" />
+			<property name="HP" value="100" />
+			<property name="Pokemon Stage" value="Stage 1" />
+			<property name="Card Text" value="" />
+			<property name="PokeBody" value="0" />
+			<property name="PokeBody Text" value="" />
+			<property name="PokePower" value="0" />
+			<property name="PokePower Text" value="" />
+			<property name="Ability" value="" />
+			<property name="AtkName1" value="Flamethrower" />
+			<property name="AtkPower1" value="" />
+			<property name="AtkText1" value="" />
+			<property name="AtkName2" value="Take Down" />
+			<property name="AtkPower2" value="" />
+			<property name="AtkText2" value="" />
+			<property name="AtkName3" value="0" />
+			<property name="AtkPower3" value="" />
+			<property name="AtkText3" value="" />
+			<property name="Weakness" value="Water x 2" />
+			<property name="Resistance" value="" />
+			<property name="Retreat Cost" value="3" />
+			<property name="Energy Type" value="" />
+			<property name="Rarity" value="Uncommon" />
+		</card>
+		<card id="36163362-da24-4d0c-83c3-d7ac7ceb8f4b" name="Charmeleon">
+			<property name="Card Type" value="Pokemon" />
+			<property name="Pokemon Type" value="Fire" />
+			<property name="HP" value="80" />
+			<property name="Pokemon Stage" value="Stage 1" />
+			<property name="Card Text" value="" />
+			<property name="PokeBody" value="0" />
+			<property name="PokeBody Text" value="" />
+			<property name="PokePower" value="0" />
+			<property name="PokePower Text" value="" />
+			<property name="Ability" value="" />
+			<property name="AtkName1" value="Slash" />
+			<property name="AtkPower1" value="" />
+			<property name="AtkText1" value="" />
+			<property name="AtkName2" value="Flamethrower" />
+			<property name="AtkPower2" value="" />
+			<property name="AtkText2" value="" />
+			<property name="AtkName3" value="0" />
+			<property name="AtkPower3" value="" />
+			<property name="AtkText3" value="" />
+			<property name="Weakness" value="Water x 2" />
+			<property name="Resistance" value="" />
+			<property name="Retreat Cost" value="1" />
+			<property name="Energy Type" value="" />
+			<property name="Rarity" value="Uncommon" />
+		</card>
+		<card id="4f4b2557-a3b4-4855-9a46-dd5751839e63" name="Dewgong">
+			<property name="Card Type" value="Pokemon" />
+			<property name="Pokemon Type" value="Water" />
+			<property name="HP" value="80" />
+			<property name="Pokemon Stage" value="Stage 1" />
+			<property name="Card Text" value="" />
+			<property name="PokeBody" value="0" />
+			<property name="PokeBody Text" value="" />
+			<property name="PokePower" value="0" />
+			<property name="PokePower Text" value="" />
+			<property name="Ability" value="" />
+			<property name="AtkName1" value="Aurora Beam" />
+			<property name="AtkPower1" value="" />
+			<property name="AtkText1" value="" />
+			<property name="AtkName2" value="Ice Beam" />
+			<property name="AtkPower2" value="" />
+			<property name="AtkText2" value="" />
+			<property name="AtkName3" value="0" />
+			<property name="AtkPower3" value="" />
+			<property name="AtkText3" value="" />
+			<property name="Weakness" value="Lightning x 2" />
+			<property name="Resistance" value="" />
+			<property name="Retreat Cost" value="3" />
+			<property name="Energy Type" value="" />
+			<property name="Rarity" value="Uncommon" />
+		</card>
+		<card id="35e1f367-611e-4f17-9fd3-d65545561c44" name="Dratini">
+			<property name="Card Type" value="Pokemon" />
+			<property name="Pokemon Type" value="Colorless" />
+			<property name="HP" value="40" />
+			<property name="Pokemon Stage" value="Basic" />
+			<property name="Card Text" value="" />
+			<property name="PokeBody" value="0" />
+			<property name="PokeBody Text" value="" />
+			<property name="PokePower" value="0" />
+			<property name="PokePower Text" value="" />
+			<property name="Ability" value="" />
+			<property name="AtkName1" value="Pound" />
+			<property name="AtkPower1" value="" />
+			<property name="AtkText1" value="" />
+			<property name="AtkName2" value="0" />
+			<property name="AtkPower2" value="" />
+			<property name="AtkText2" value="" />
+			<property name="AtkName3" value="0" />
+			<property name="AtkPower3" value="" />
+			<property name="AtkText3" value="" />
+			<property name="Weakness" value="" />
+			<property name="Resistance" value="Psychic - 30" />
+			<property name="Retreat Cost" value="1" />
+			<property name="Energy Type" value="" />
+			<property name="Rarity" value="Uncommon" />
+		</card>
+		<card id="8ec8bfbd-156c-46e4-8f01-bc8f0f3531ba" name="Farfetch'd">
+			<property name="Card Type" value="Pokemon" />
+			<property name="Pokemon Type" value="Colorless" />
+			<property name="HP" value="50" />
+			<property name="Pokemon Stage" value="Basic" />
+			<property name="Card Text" value="" />
+			<property name="PokeBody" value="0" />
+			<property name="PokeBody Text" value="" />
+			<property name="PokePower" value="0" />
+			<property name="PokePower Text" value="" />
+			<property name="Ability" value="" />
+			<property name="AtkName1" value="Leek Slap" />
+			<property name="AtkPower1" value="" />
+			<property name="AtkText1" value="" />
+			<property name="AtkName2" value="Pot Smash" />
+			<property name="AtkPower2" value="" />
+			<property name="AtkText2" value="" />
+			<property name="AtkName3" value="0" />
+			<property name="AtkPower3" value="" />
+			<property name="AtkText3" value="" />
+			<property name="Weakness" value="Lightning x 2" />
+			<property name="Resistance" value="Fighting - 30" />
+			<property name="Retreat Cost" value="1" />
+			<property name="Energy Type" value="" />
+			<property name="Rarity" value="Uncommon" />
+		</card>
+		<card id="3ca49470-79aa-4823-a785-220db38098b2" name="Growlithe">
+			<property name="Card Type" value="Pokemon" />
+			<property name="Pokemon Type" value="Fire" />
+			<property name="HP" value="60" />
+			<property name="Pokemon Stage" value="Basic" />
+			<property name="Card Text" value="" />
+			<property name="PokeBody" value="0" />
+			<property name="PokeBody Text" value="" />
+			<property name="PokePower" value="0" />
+			<property name="PokePower Text" value="" />
+			<property name="Ability" value="" />
+			<property name="AtkName1" value="Flare" />
+			<property name="AtkPower1" value="" />
+			<property name="AtkText1" value="" />
+			<property name="AtkName2" value="0" />
+			<property name="AtkPower2" value="" />
+			<property name="AtkText2" value="" />
+			<property name="AtkName3" value="0" />
+			<property name="AtkPower3" value="" />
+			<property name="AtkText3" value="" />
+			<property name="Weakness" value="Water x 2" />
+			<property name="Resistance" value="" />
+			<property name="Retreat Cost" value="1" />
+			<property name="Energy Type" value="" />
+			<property name="Rarity" value="Uncommon" />
+		</card>
+		<card id="b881a27d-dff2-4473-a2b9-36a72d3675c2" name="Haunter">
+			<property name="Card Type" value="Pokemon" />
+			<property name="Pokemon Type" value="Psychic" />
+			<property name="HP" value="60" />
+			<property name="Pokemon Stage" value="Stage 1" />
+			<property name="Card Text" value="" />
+			<property name="PokeBody" value="0" />
+			<property name="PokeBody Text" value="" />
+			<property name="PokePower" value="0" />
+			<property name="PokePower Text" value="" />
+			<property name="Ability" value="" />
+			<property name="AtkName1" value="Hypnosis" />
+			<property name="AtkPower1" value="" />
+			<property name="AtkText1" value="" />
+			<property name="AtkName2" value="Dream Eater" />
+			<property name="AtkPower2" value="" />
+			<property name="AtkText2" value="" />
+			<property name="AtkName3" value="0" />
+			<property name="AtkPower3" value="" />
+			<property name="AtkText3" value="" />
+			<property name="Weakness" value="" />
+			<property name="Resistance" value="Fighting - 30" />
+			<property name="Retreat Cost" value="1" />
+			<property name="Energy Type" value="" />
+			<property name="Rarity" value="Uncommon" />
+		</card>
+		<card id="85dd08b8-1b9c-4693-a514-8e1dbb985f6c" name="Ivysaur">
+			<property name="Card Type" value="Pokemon" />
+			<property name="Pokemon Type" value="Grass" />
+			<property name="HP" value="60" />
+			<property name="Pokemon Stage" value="Stage 1" />
+			<property name="Card Text" value="" />
+			<property name="PokeBody" value="0" />
+			<property name="PokeBody Text" value="" />
+			<property name="PokePower" value="0" />
+			<property name="PokePower Text" value="" />
+			<property name="Ability" value="" />
+			<property name="AtkName1" value="Vine Whip" />
+			<property name="AtkPower1" value="" />
+			<property name="AtkText1" value="" />
+			<property name="AtkName2" value="Poisonpowder" />
+			<property name="AtkPower2" value="" />
+			<property name="AtkText2" value="" />
+			<property name="AtkName3" value="0" />
+			<property name="AtkPower3" value="" />
+			<property name="AtkText3" value="" />
+			<property name="Weakness" value="Fire x 2" />
+			<property name="Resistance" value="" />
+			<property name="Retreat Cost" value="1" />
+			<property name="Energy Type" value="" />
+			<property name="Rarity" value="Uncommon" />
+		</card>
+		<card id="b4a8bd70-5b58-4506-9710-d0536eb8df54" name="Jynx">
+			<property name="Card Type" value="Pokemon" />
+			<property name="Pokemon Type" value="Psychic" />
+			<property name="HP" value="70" />
+			<property name="Pokemon Stage" value="Basic" />
+			<property name="Card Text" value="" />
+			<property name="PokeBody" value="0" />
+			<property name="PokeBody Text" value="" />
+			<property name="PokePower" value="0" />
+			<property name="PokePower Text" value="" />
+			<property name="Ability" value="" />
+			<property name="AtkName1" value="Doubleslap" />
+			<property name="AtkPower1" value="" />
+			<property name="AtkText1" value="" />
+			<property name="AtkName2" value="Meditate" />
+			<property name="AtkPower2" value="" />
+			<property name="AtkText2" value="" />
+			<property name="AtkName3" value="0" />
+			<property name="AtkPower3" value="" />
+			<property name="AtkText3" value="" />
+			<property name="Weakness" value="Psychic x 2" />
+			<property name="Resistance" value="" />
+			<property name="Retreat Cost" value="2" />
+			<property name="Energy Type" value="" />
+			<property name="Rarity" value="Uncommon" />
+		</card>
+		<card id="5afb6f78-710d-4a39-a969-50edd0b4f642" name="Kadabra">
+			<property name="Card Type" value="Pokemon" />
+			<property name="Pokemon Type" value="Psychic" />
+			<property name="HP" value="60" />
+			<property name="Pokemon Stage" value="Stage 1" />
+			<property name="Card Text" value="" />
+			<property name="PokeBody" value="0" />
+			<property name="PokeBody Text" value="" />
+			<property name="PokePower" value="0" />
+			<property name="PokePower Text" value="" />
+			<property name="Ability" value="" />
+			<property name="AtkName1" value="Recover" />
+			<property name="AtkPower1" value="" />
+			<property name="AtkText1" value="" />
+			<property name="AtkName2" value="Super Psy" />
+			<property name="AtkPower2" value="" />
+			<property name="AtkText2" value="" />
+			<property name="AtkName3" value="0" />
+			<property name="AtkPower3" value="" />
+			<property name="AtkText3" value="" />
+			<property name="Weakness" value="Psychic x 2" />
+			<property name="Resistance" value="" />
+			<property name="Retreat Cost" value="3" />
+			<property name="Energy Type" value="" />
+			<property name="Rarity" value="Uncommon" />
+		</card>
+		<card id="36452315-62b5-4a29-b478-e7f1d843b159" name="Kakuna">
+			<property name="Card Type" value="Pokemon" />
+			<property name="Pokemon Type" value="Grass" />
+			<property name="HP" value="80" />
+			<property name="Pokemon Stage" value="Stage 1" />
+			<property name="Card Text" value="" />
+			<property name="PokeBody" value="0" />
+			<property name="PokeBody Text" value="" />
+			<property name="PokePower" value="0" />
+			<property name="PokePower Text" value="" />
+			<property name="Ability" value="" />
+			<property name="AtkName1" value="Stiffen" />
+			<property name="AtkPower1" value="" />
+			<property name="AtkText1" value="" />
+			<property name="AtkName2" value="Poisonpowder" />
+			<property name="AtkPower2" value="" />
+			<property name="AtkText2" value="" />
+			<property name="AtkName3" value="0" />
+			<property name="AtkPower3" value="" />
+			<property name="AtkText3" value="" />
+			<property name="Weakness" value="Fire x 2" />
+			<property name="Resistance" value="" />
+			<property name="Retreat Cost" value="2" />
+			<property name="Energy Type" value="" />
+			<property name="Rarity" value="Uncommon" />
+		</card>
+		<card id="2419a9b5-91eb-4135-ba44-e803a871cca4" name="Machoke">
+			<property name="Card Type" value="Pokemon" />
+			<property name="Pokemon Type" value="Fighting" />
+			<property name="HP" value="80" />
+			<property name="Pokemon Stage" value="Stage 1" />
+			<property name="Card Text" value="" />
+			<property name="PokeBody" value="0" />
+			<property name="PokeBody Text" value="" />
+			<property name="PokePower" value="0" />
+			<property name="PokePower Text" value="" />
+			<property name="Ability" value="" />
+			<property name="AtkName1" value="Karate Chop" />
+			<property name="AtkPower1" value="" />
+			<property name="AtkText1" value="" />
+			<property name="AtkName2" value="Submission" />
+			<property name="AtkPower2" value="" />
+			<property name="AtkText2" value="" />
+			<property name="AtkName3" value="0" />
+			<property name="AtkPower3" value="" />
+			<property name="AtkText3" value="" />
+			<property name="Weakness" value="Psychic x 2" />
+			<property name="Resistance" value="" />
+			<property name="Retreat Cost" value="3" />
+			<property name="Energy Type" value="" />
+			<property name="Rarity" value="Uncommon" />
+		</card>
+		<card id="e1e1821b-bd5a-4283-bf76-42976b3e13b6" name="Magikarp">
+			<property name="Card Type" value="Pokemon" />
+			<property name="Pokemon Type" value="Water" />
+			<property name="HP" value="30" />
+			<property name="Pokemon Stage" value="Basic" />
+			<property name="Card Text" value="" />
+			<property name="PokeBody" value="0" />
+			<property name="PokeBody Text" value="" />
+			<property name="PokePower" value="0" />
+			<property name="PokePower Text" value="" />
+			<property name="Ability" value="" />
+			<property name="AtkName1" value="Tackle" />
+			<property name="AtkPower1" value="" />
+			<property name="AtkText1" value="" />
+			<property name="AtkName2" value="Flail" />
+			<property name="AtkPower2" value="" />
+			<property name="AtkText2" value="" />
+			<property name="AtkName3" value="0" />
+			<property name="AtkPower3" value="" />
+			<property name="AtkText3" value="" />
+			<property name="Weakness" value="Lightning x 2" />
+			<property name="Resistance" value="" />
+			<property name="Retreat Cost" value="1" />
+			<property name="Energy Type" value="" />
+			<property name="Rarity" value="Uncommon" />
+		</card>
+		<card id="7ec7f20e-fa61-4a22-a52c-0a2bde9a21cf" name="Magmar">
+			<property name="Card Type" value="Pokemone" />
+			<property name="Pokemon Type" value="Fire" />
+			<property name="HP" value="50" />
+			<property name="Pokemon Stage" value="Basic" />
+			<property name="Card Text" value="" />
+			<property name="PokeBody" value="0" />
+			<property name="PokeBody Text" value="" />
+			<property name="PokePower" value="0" />
+			<property name="PokePower Text" value="" />
+			<property name="Ability" value="" />
+			<property name="AtkName1" value="Fire Punch" />
+			<property name="AtkPower1" value="" />
+			<property name="AtkText1" value="" />
+			<property name="AtkName2" value="Flamethrower" />
+			<property name="AtkPower2" value="" />
+			<property name="AtkText2" value="" />
+			<property name="AtkName3" value="0" />
+			<property name="AtkPower3" value="" />
+			<property name="AtkText3" value="" />
+			<property name="Weakness" value="Water x 2" />
+			<property name="Resistance" value="" />
+			<property name="Retreat Cost" value="2" />
+			<property name="Energy Type" value="" />
+			<property name="Rarity" value="Uncommon" />
+		</card>
+		<card id="0c867cf8-74a7-4e41-89c3-59fdd5ea9afd" name="Nidorino">
+			<property name="Card Type" value="Pokemon" />
+			<property name="Pokemon Type" value="Grass" />
+			<property name="HP" value="60" />
+			<property name="Pokemon Stage" value="Stage 1" />
+			<property name="Card Text" value="" />
+			<property name="PokeBody" value="0" />
+			<property name="PokeBody Text" value="" />
+			<property name="PokePower" value="0" />
+			<property name="PokePower Text" value="" />
+			<property name="Ability" value="" />
+			<property name="AtkName1" value="Double Kick" />
+			<property name="AtkPower1" value="" />
+			<property name="AtkText1" value="" />
+			<property name="AtkName2" value="Horn Drill" />
+			<property name="AtkPower2" value="" />
+			<property name="AtkText2" value="" />
+			<property name="AtkName3" value="0" />
+			<property name="AtkPower3" value="" />
+			<property name="AtkText3" value="" />
+			<property name="Weakness" value="Psychic x 2" />
+			<property name="Resistance" value="" />
+			<property name="Retreat Cost" value="1" />
+			<property name="Energy Type" value="" />
+			<property name="Rarity" value="Uncommon" />
+		</card>
+		<card id="8fd7f71c-44d8-487a-87d6-71a002b55742" name="Poliwhirl">
+			<property name="Card Type" value="Pokemon" />
+			<property name="Pokemon Type" value="Water" />
+			<property name="HP" value="60" />
+			<property name="Pokemon Stage" value="Stage 1" />
+			<property name="Card Text" value="" />
+			<property name="PokeBody" value="0" />
+			<property name="PokeBody Text" value="" />
+			<property name="PokePower" value="0" />
+			<property name="PokePower Text" value="" />
+			<property name="Ability" value="" />
+			<property name="AtkName1" value="Amnesia" />
+			<property name="AtkPower1" value="" />
+			<property name="AtkText1" value="" />
+			<property name="AtkName2" value="Doubleslap" />
+			<property name="AtkPower2" value="" />
+			<property name="AtkText2" value="" />
+			<property name="AtkName3" value="0" />
+			<property name="AtkPower3" value="" />
+			<property name="AtkText3" value="" />
+			<property name="Weakness" value="Grass x 2" />
+			<property name="Resistance" value="" />
+			<property name="Retreat Cost" value="1" />
+			<property name="Energy Type" value="" />
+			<property name="Rarity" value="Uncommon" />
+		</card>
+		<card id="e589bfd3-e8c3-4f55-9b1b-2ed276c7096b" name="Porygon">
+			<property name="Card Type" value="Pokemon" />
+			<property name="Pokemon Type" value="Colorless" />
+			<property name="HP" value="30" />
+			<property name="Pokemon Stage" value="Basic" />
+			<property name="Card Text" value="" />
+			<property name="PokeBody" value="0" />
+			<property name="PokeBody Text" value="" />
+			<property name="PokePower" value="0" />
+			<property name="PokePower Text" value="" />
+			<property name="Ability" value="" />
+			<property name="AtkName1" value="Conversion 1" />
+			<property name="AtkPower1" value="" />
+			<property name="AtkText1" value="" />
+			<property name="AtkName2" value="Conversion 2" />
+			<property name="AtkPower2" value="" />
+			<property name="AtkText2" value="" />
+			<property name="AtkName3" value="0" />
+			<property name="AtkPower3" value="" />
+			<property name="AtkText3" value="" />
+			<property name="Weakness" value="Fighting x 2" />
+			<property name="Resistance" value="Psychic - 30" />
+			<property name="Retreat Cost" value="1" />
+			<property name="Energy Type" value="" />
+			<property name="Rarity" value="Uncommon" />
+		</card>
+		<card id="59157ccf-6023-4b3a-a60a-6a2d8799d548" name="Raticate">
+			<property name="Card Type" value="Pokemon" />
+			<property name="Pokemon Type" value="Colorless" />
+			<property name="HP" value="60" />
+			<property name="Pokemon Stage" value="Stage 1" />
+			<property name="Card Text" value="" />
+			<property name="PokeBody" value="0" />
+			<property name="PokeBody Text" value="" />
+			<property name="PokePower" value="0" />
+			<property name="PokePower Text" value="" />
+			<property name="Ability" value="" />
+			<property name="AtkName1" value="Bite" />
+			<property name="AtkPower1" value="" />
+			<property name="AtkText1" value="" />
+			<property name="AtkName2" value="Super Fang" />
+			<property name="AtkPower2" value="" />
+			<property name="AtkText2" value="" />
+			<property name="AtkName3" value="0" />
+			<property name="AtkPower3" value="" />
+			<property name="AtkText3" value="" />
+			<property name="Weakness" value="Fighting x 2" />
+			<property name="Resistance" value="Psychic - 30" />
+			<property name="Retreat Cost" value="1" />
+			<property name="Energy Type" value="" />
+			<property name="Rarity" value="Uncommon" />
+		</card>
+		<card id="16ef9aea-2194-46a8-9013-f0313c0eae4d" name="Seel">
+			<property name="Card Type" value="Pokemon" />
+			<property name="Pokemon Type" value="Water" />
+			<property name="HP" value="60" />
+			<property name="Pokemon Stage" value="Basic" />
+			<property name="Card Text" value="" />
+			<property name="PokeBody" value="0" />
+			<property name="PokeBody Text" value="" />
+			<property name="PokePower" value="0" />
+			<property name="PokePower Text" value="" />
+			<property name="Ability" value="" />
+			<property name="AtkName1" value="Headbutt" />
+			<property name="AtkPower1" value="" />
+			<property name="AtkText1" value="" />
+			<property name="AtkName2" value="0" />
+			<property name="AtkPower2" value="" />
+			<property name="AtkText2" value="" />
+			<property name="AtkName3" value="0" />
+			<property name="AtkPower3" value="" />
+			<property name="AtkText3" value="" />
+			<property name="Weakness" value="Lightning x 2" />
+			<property name="Resistance" value="" />
+			<property name="Retreat Cost" value="1" />
+			<property name="Energy Type" value="" />
+			<property name="Rarity" value="Uncommon" />
+		</card>
+		<card id="60e12f4d-7943-4dbe-b135-4e7f434e9b37" name="Wartortle">
+			<property name="Card Type" value="Pokemon" />
+			<property name="Pokemon Type" value="Water" />
+			<property name="HP" value="70" />
+			<property name="Pokemon Stage" value="" />
+			<property name="Card Text" value="" />
+			<property name="PokeBody" value="0" />
+			<property name="PokeBody Text" value="" />
+			<property name="PokePower" value="0" />
+			<property name="PokePower Text" value="" />
+			<property name="Ability" value="" />
+			<property name="AtkName1" value="Withdraw" />
+			<property name="AtkPower1" value="" />
+			<property name="AtkText1" value="" />
+			<property name="AtkName2" value="Bite" />
+			<property name="AtkPower2" value="" />
+			<property name="AtkText2" value="" />
+			<property name="AtkName3" value="0" />
+			<property name="AtkPower3" value="" />
+			<property name="AtkText3" value="" />
+			<property name="Weakness" value="Lightning x 2" />
+			<property name="Resistance" value="" />
+			<property name="Retreat Cost" value="1" />
+			<property name="Energy Type" value="" />
+			<property name="Rarity" value="Uncommon" />
+		</card>
+		<card id="d10d3f61-b90a-4cdc-89c3-329683d3b12a" name="Abra">
+			<property name="Card Type" value="Pokemone" />
+			<property name="Pokemon Type" value="Psychic" />
+			<property name="HP" value="30" />
+			<property name="Pokemon Stage" value="Basic" />
+			<property name="Card Text" value="" />
+			<property name="PokeBody" value="0" />
+			<property name="PokeBody Text" value="" />
+			<property name="PokePower" value="0" />
+			<property name="PokePower Text" value="" />
+			<property name="Ability" value="" />
+			<property name="AtkName1" value="Psyshock" />
+			<property name="AtkPower1" value="" />
+			<property name="AtkText1" value="" />
+			<property name="AtkName2" value="0" />
+			<property name="AtkPower2" value="" />
+			<property name="AtkText2" value="" />
+			<property name="AtkName3" value="0" />
+			<property name="AtkPower3" value="" />
+			<property name="AtkText3" value="" />
+			<property name="Weakness" value="Psychic" />
+			<property name="Resistance" value="" />
+			<property name="Retreat Cost" value="0" />
+			<property name="Energy Type" value="" />
+			<property name="Rarity" value="Common" />
+		</card>
+		<card id="1a42e5c9-c03a-4bbf-acdb-839c91f42a47" name="Bulbasaur">
+			<property name="Card Type" value="Pokemon" />
+			<property name="Pokemon Type" value="Grass" />
+			<property name="HP" value="40" />
+			<property name="Pokemon Stage" value="Basic" />
+			<property name="Card Text" value="" />
+			<property name="PokeBody" value="0" />
+			<property name="PokeBody Text" value="" />
+			<property name="PokePower" value="0" />
+			<property name="PokePower Text" value="" />
+			<property name="Ability" value="" />
+			<property name="AtkName1" value="Leech Seed" />
+			<property name="AtkPower1" value="" />
+			<property name="AtkText1" value="" />
+			<property name="AtkName2" value="0" />
+			<property name="AtkPower2" value="" />
+			<property name="AtkText2" value="" />
+			<property name="AtkName3" value="0" />
+			<property name="AtkPower3" value="" />
+			<property name="AtkText3" value="" />
+			<property name="Weakness" value="Fire x 2" />
+			<property name="Resistance" value="" />
+			<property name="Retreat Cost" value="1" />
+			<property name="Energy Type" value="" />
+			<property name="Rarity" value="Common" />
+		</card>
+		<card id="228b3b7a-a031-450a-ac6d-f46862284ca4" name="Caterpie">
+			<property name="Card Type" value="Pokemon" />
+			<property name="Pokemon Type" value="Grass" />
+			<property name="HP" value="40" />
+			<property name="Pokemon Stage" value="Basic" />
+			<property name="Card Text" value="" />
+			<property name="PokeBody" value="0" />
+			<property name="PokeBody Text" value="" />
+			<property name="PokePower" value="0" />
+			<property name="PokePower Text" value="" />
+			<property name="Ability" value="" />
+			<property name="AtkName1" value="String Shot" />
+			<property name="AtkPower1" value="" />
+			<property name="AtkText1" value="" />
+			<property name="AtkName2" value="0" />
+			<property name="AtkPower2" value="" />
+			<property name="AtkText2" value="" />
+			<property name="AtkName3" value="0" />
+			<property name="AtkPower3" value="" />
+			<property name="AtkText3" value="" />
+			<property name="Weakness" value="Fire x 2" />
+			<property name="Resistance" value="" />
+			<property name="Retreat Cost" value="1" />
+			<property name="Energy Type" value="" />
+			<property name="Rarity" value="Common" />
+		</card>
+		<card id="0d9bb89e-9b20-4fb2-aed3-3e0f53c432b4" name="Charmander">
+			<property name="Card Type" value="Pokemon" />
+			<property name="Pokemon Type" value="Fire" />
+			<property name="HP" value="50" />
+			<property name="Pokemon Stage" value="Basic" />
+			<property name="Card Text" value="" />
+			<property name="PokeBody" value="0" />
+			<property name="PokeBody Text" value="" />
+			<property name="PokePower" value="0" />
+			<property name="PokePower Text" value="" />
+			<property name="Ability" value="" />
+			<property name="AtkName1" value="Scratch" />
+			<property name="AtkPower1" value="" />
+			<property name="AtkText1" value="" />
+			<property name="AtkName2" value="Ember" />
+			<property name="AtkPower2" value="" />
+			<property name="AtkText2" value="" />
+			<property name="AtkName3" value="0" />
+			<property name="AtkPower3" value="" />
+			<property name="AtkText3" value="" />
+			<property name="Weakness" value="Water x 2" />
+			<property name="Resistance" value="" />
+			<property name="Retreat Cost" value="1" />
+			<property name="Energy Type" value="" />
+			<property name="Rarity" value="Common" />
+		</card>
+		<card id="d8ef9689-7449-49d6-8c89-f9100317e65a" name="Diglett">
+			<property name="Card Type" value="Pokemon" />
+			<property name="Pokemon Type" value="Fighting" />
+			<property name="HP" value="30" />
+			<property name="Pokemon Stage" value="Basic" />
+			<property name="Card Text" value="" />
+			<property name="PokeBody" value="0" />
+			<property name="PokeBody Text" value="" />
+			<property name="PokePower" value="0" />
+			<property name="PokePower Text" value="" />
+			<property name="Ability" value="" />
+			<property name="AtkName1" value="Dig" />
+			<property name="AtkPower1" value="" />
+			<property name="AtkText1" value="" />
+			<property name="AtkName2" value="Mud Slap" />
+			<property name="AtkPower2" value="" />
+			<property name="AtkText2" value="" />
+			<property name="AtkName3" value="0" />
+			<property name="AtkPower3" value="" />
+			<property name="AtkText3" value="" />
+			<property name="Weakness" value="Grass x 2" />
+			<property name="Resistance" value="Lightning - 30" />
+			<property name="Retreat Cost" value="0" />
+			<property name="Energy Type" value="" />
+			<property name="Rarity" value="Common" />
+		</card>
+		<card id="956cc554-2049-41ab-a180-143747c40153" name="Doduo">
+			<property name="Card Type" value="Pokemon" />
+			<property name="Pokemon Type" value="Colorless" />
+			<property name="HP" value="50" />
+			<property name="Pokemon Stage" value="Basic" />
+			<property name="Card Text" value="" />
+			<property name="PokeBody" value="0" />
+			<property name="PokeBody Text" value="" />
+			<property name="PokePower" value="0" />
+			<property name="PokePower Text" value="" />
+			<property name="Ability" value="" />
+			<property name="AtkName1" value="Fury Attack" />
+			<property name="AtkPower1" value="" />
+			<property name="AtkText1" value="" />
+			<property name="AtkName2" value="0" />
+			<property name="AtkPower2" value="" />
+			<property name="AtkText2" value="" />
+			<property name="AtkName3" value="0" />
+			<property name="AtkPower3" value="" />
+			<property name="AtkText3" value="" />
+			<property name="Weakness" value="Lightning x 2" />
+			<property name="Resistance" value="Fighting - 30" />
+			<property name="Retreat Cost" value="0" />
+			<property name="Energy Type" value="" />
+			<property name="Rarity" value="Common" />
+		</card>
+		<card id="322595e2-b9c2-4253-8614-6bdaac6f0c64" name="Drowzee">
+			<property name="Card Type" value="Pokemon" />
+			<property name="Pokemon Type" value="Psychic" />
+			<property name="HP" value="50" />
+			<property name="Pokemon Stage" value="Basic" />
+			<property name="Card Text" value="" />
+			<property name="PokeBody" value="0" />
+			<property name="PokeBody Text" value="" />
+			<property name="PokePower" value="0" />
+			<property name="PokePower Text" value="" />
+			<property name="Ability" value="" />
+			<property name="AtkName1" value="Pound" />
+			<property name="AtkPower1" value="" />
+			<property name="AtkText1" value="" />
+			<property name="AtkName2" value="Confuse Ray" />
+			<property name="AtkPower2" value="" />
+			<property name="AtkText2" value="" />
+			<property name="AtkName3" value="0" />
+			<property name="AtkPower3" value="" />
+			<property name="AtkText3" value="" />
+			<property name="Weakness" value="Psychic x 2" />
+			<property name="Resistance" value="" />
+			<property name="Retreat Cost" value="1" />
+			<property name="Energy Type" value="" />
+			<property name="Rarity" value="Common" />
+		</card>
+		<card id="80ad17d4-aef8-4a2c-9d1e-d56c71ad85ad" name="Gastly">
+			<property name="Card Type" value="Pokemon" />
+			<property name="Pokemon Type" value="Psychic" />
+			<property name="HP" value="30" />
+			<property name="Pokemon Stage" value="Basic" />
+			<property name="Card Text" value="" />
+			<property name="PokeBody" value="0" />
+			<property name="PokeBody Text" value="" />
+			<property name="PokePower" value="0" />
+			<property name="PokePower Text" value="" />
+			<property name="Ability" value="" />
+			<property name="AtkName1" value="Sleeping Gas" />
+			<property name="AtkPower1" value="" />
+			<property name="AtkText1" value="" />
+			<property name="AtkName2" value="Destiny Bond" />
+			<property name="AtkPower2" value="" />
+			<property name="AtkText2" value="" />
+			<property name="AtkName3" value="0" />
+			<property name="AtkPower3" value="" />
+			<property name="AtkText3" value="" />
+			<property name="Weakness" value="" />
+			<property name="Resistance" value="Fighting - 30" />
+			<property name="Retreat Cost" value="0" />
+			<property name="Energy Type" value="" />
+			<property name="Rarity" value="Common" />
+		</card>
+		<card id="36ea02e0-c55f-4b0f-b66a-52dcae8e1c53" name="Koffing">
+			<property name="Card Type" value="Pokemone" />
+			<property name="Pokemon Type" value="Grass" />
+			<property name="HP" value="50" />
+			<property name="Pokemon Stage" value="Basic" />
+			<property name="Card Text" value="" />
+			<property name="PokeBody" value="0" />
+			<property name="PokeBody Text" value="" />
+			<property name="PokePower" value="0" />
+			<property name="PokePower Text" value="" />
+			<property name="Ability" value="" />
+			<property name="AtkName1" value="Foul Gas" />
+			<property name="AtkPower1" value="" />
+			<property name="AtkText1" value="" />
+			<property name="AtkName2" value="0" />
+			<property name="AtkPower2" value="" />
+			<property name="AtkText2" value="" />
+			<property name="AtkName3" value="0" />
+			<property name="AtkPower3" value="" />
+			<property name="AtkText3" value="" />
+			<property name="Weakness" value="Psychic x 2" />
+			<property name="Resistance" value="" />
+			<property name="Retreat Cost" value="1" />
+			<property name="Energy Type" value="" />
+			<property name="Rarity" value="Common" />
+		</card>
+		<card id="34bf2afe-917d-4df1-b24f-9a341f8a6707" name="Machop">
+			<property name="Card Type" value="Pokemon" />
+			<property name="Pokemon Type" value="Fighting" />
+			<property name="HP" value="50" />
+			<property name="Pokemon Stage" value="Basic" />
+			<property name="Card Text" value="" />
+			<property name="PokeBody" value="0" />
+			<property name="PokeBody Text" value="" />
+			<property name="PokePower" value="0" />
+			<property name="PokePower Text" value="" />
+			<property name="Ability" value="" />
+			<property name="AtkName1" value="Low Kick" />
+			<property name="AtkPower1" value="" />
+			<property name="AtkText1" value="" />
+			<property name="AtkName2" value="0" />
+			<property name="AtkPower2" value="" />
+			<property name="AtkText2" value="" />
+			<property name="AtkName3" value="0" />
+			<property name="AtkPower3" value="" />
+			<property name="AtkText3" value="" />
+			<property name="Weakness" value="Psychic x 2" />
+			<property name="Resistance" value="" />
+			<property name="Retreat Cost" value="1" />
+			<property name="Energy Type" value="" />
+			<property name="Rarity" value="Common" />
+		</card>
+		<card id="8f472a83-0147-417f-88d9-2d5de6eadefb" name="Magnemite">
+			<property name="Card Type" value="Pokemon" />
+			<property name="Pokemon Type" value="Lightning" />
+			<property name="HP" value="40" />
+			<property name="Pokemon Stage" value="Basic" />
+			<property name="Card Text" value="" />
+			<property name="PokeBody" value="0" />
+			<property name="PokeBody Text" value="" />
+			<property name="PokePower" value="0" />
+			<property name="PokePower Text" value="" />
+			<property name="Ability" value="" />
+			<property name="AtkName1" value="Thunder Wave" />
+			<property name="AtkPower1" value="" />
+			<property name="AtkText1" value="" />
+			<property name="AtkName2" value="Selfdestruct" />
+			<property name="AtkPower2" value="" />
+			<property name="AtkText2" value="" />
+			<property name="AtkName3" value="0" />
+			<property name="AtkPower3" value="" />
+			<property name="AtkText3" value="" />
+			<property name="Weakness" value="Fighting x 2" />
+			<property name="Resistance" value="" />
+			<property name="Retreat Cost" value="1" />
+			<property name="Energy Type" value="" />
+			<property name="Rarity" value="Common" />
+		</card>
+		<card id="37e28ff0-305b-41ba-a4b1-9d55822179f7" name="Metapod">
+			<property name="Card Type" value="Pokemon" />
+			<property name="Pokemon Type" value="Grass" />
+			<property name="HP" value="70" />
+			<property name="Pokemon Stage" value="Stage 1" />
+			<property name="Card Text" value="" />
+			<property name="PokeBody" value="0" />
+			<property name="PokeBody Text" value="" />
+			<property name="PokePower" value="0" />
+			<property name="PokePower Text" value="" />
+			<property name="Ability" value="" />
+			<property name="AtkName1" value="Stiffen" />
+			<property name="AtkPower1" value="" />
+			<property name="AtkText1" value="" />
+			<property name="AtkName2" value="Stun Spore" />
+			<property name="AtkPower2" value="" />
+			<property name="AtkText2" value="" />
+			<property name="AtkName3" value="0" />
+			<property name="AtkPower3" value="" />
+			<property name="AtkText3" value="" />
+			<property name="Weakness" value="Fire x 2" />
+			<property name="Resistance" value="" />
+			<property name="Retreat Cost" value="2" />
+			<property name="Energy Type" value="" />
+			<property name="Rarity" value="Common" />
+		</card>
+		<card id="505ac834-0b1c-455f-b10e-4cfeb8f01e05" name="Nidoran">
+			<property name="Card Type" value="Pokemon" />
+			<property name="Pokemon Type" value="Grass" />
+			<property name="HP" value="40" />
+			<property name="Pokemon Stage" value="Basic" />
+			<property name="Card Text" value="" />
+			<property name="PokeBody" value="0" />
+			<property name="PokeBody Text" value="" />
+			<property name="PokePower" value="0" />
+			<property name="PokePower Text" value="" />
+			<property name="Ability" value="" />
+			<property name="AtkName1" value="Horn Hazard" />
+			<property name="AtkPower1" value="" />
+			<property name="AtkText1" value="" />
+			<property name="AtkName2" value="0" />
+			<property name="AtkPower2" value="" />
+			<property name="AtkText2" value="" />
+			<property name="AtkName3" value="0" />
+			<property name="AtkPower3" value="" />
+			<property name="AtkText3" value="" />
+			<property name="Weakness" value="Psychic x 2" />
+			<property name="Resistance" value="" />
+			<property name="Retreat Cost" value="1" />
+			<property name="Energy Type" value="" />
+			<property name="Rarity" value="Common" />
+		</card>
+		<card id="fc2abaf6-5546-488f-ba3a-e372688f06b1" name="Onix">
+			<property name="Card Type" value="Pokemon" />
+			<property name="Pokemon Type" value="Fighting" />
+			<property name="HP" value="90" />
+			<property name="Pokemon Stage" value="Basic" />
+			<property name="Card Text" value="" />
+			<property name="PokeBody" value="0" />
+			<property name="PokeBody Text" value="" />
+			<property name="PokePower" value="0" />
+			<property name="PokePower Text" value="" />
+			<property name="Ability" value="" />
+			<property name="AtkName1" value="Rock Throw" />
+			<property name="AtkPower1" value="" />
+			<property name="AtkText1" value="" />
+			<property name="AtkName2" value="Harden" />
+			<property name="AtkPower2" value="" />
+			<property name="AtkText2" value="" />
+			<property name="AtkName3" value="0" />
+			<property name="AtkPower3" value="" />
+			<property name="AtkText3" value="" />
+			<property name="Weakness" value="Grass x 2 " />
+			<property name="Resistance" value="" />
+			<property name="Retreat Cost" value="3" />
+			<property name="Energy Type" value="" />
+			<property name="Rarity" value="Common" />
+		</card>
+		<card id="8e030091-bdf1-4b25-a156-e05169791d53" name="Pidgey">
+			<property name="Card Type" value="Pokemon" />
+			<property name="Pokemon Type" value="Colorless" />
+			<property name="HP" value="40" />
+			<property name="Pokemon Stage" value="Basic" />
+			<property name="Card Text" value="" />
+			<property name="PokeBody" value="0" />
+			<property name="PokeBody Text" value="" />
+			<property name="PokePower" value="0" />
+			<property name="PokePower Text" value="" />
+			<property name="Ability" value="" />
+			<property name="AtkName1" value="Whirlwind" />
+			<property name="AtkPower1" value="" />
+			<property name="AtkText1" value="" />
+			<property name="AtkName2" value="0" />
+			<property name="AtkPower2" value="" />
+			<property name="AtkText2" value="" />
+			<property name="AtkName3" value="0" />
+			<property name="AtkPower3" value="" />
+			<property name="AtkText3" value="" />
+			<property name="Weakness" value="Lightning x 2" />
+			<property name="Resistance" value="Fighting - 30" />
+			<property name="Retreat Cost" value="1" />
+			<property name="Energy Type" value="" />
+			<property name="Rarity" value="Common" />
+		</card>
+		<card id="f0286f92-7981-444a-9d87-e8b9011e472c" name="Pikachu">
+			<property name="Card Type" value="Pokemon" />
+			<property name="Pokemon Type" value="Lightning" />
+			<property name="HP" value="40" />
+			<property name="Pokemon Stage" value="Basic" />
+			<property name="Card Text" value="" />
+			<property name="PokeBody" value="0" />
+			<property name="PokeBody Text" value="" />
+			<property name="PokePower" value="0" />
+			<property name="PokePower Text" value="" />
+			<property name="Ability" value="" />
+			<property name="AtkName1" value="Gnaw" />
+			<property name="AtkPower1" value="" />
+			<property name="AtkText1" value="" />
+			<property name="AtkName2" value="Thunder Jolt" />
+			<property name="AtkPower2" value="" />
+			<property name="AtkText2" value="" />
+			<property name="AtkName3" value="0" />
+			<property name="AtkPower3" value="" />
+			<property name="AtkText3" value="" />
+			<property name="Weakness" value="Fighting x 2" />
+			<property name="Resistance" value="" />
+			<property name="Retreat Cost" value="1" />
+			<property name="Energy Type" value="" />
+			<property name="Rarity" value="Common" />
+		</card>
+		<card id="050cf751-d2e1-4c42-be80-ac7915c74e03" name="Poliwag">
+			<property name="Card Type" value="Pokemon" />
+			<property name="Pokemon Type" value="Water" />
+			<property name="HP" value="40" />
+			<property name="Pokemon Stage" value="Basic" />
+			<property name="Card Text" value="" />
+			<property name="PokeBody" value="0" />
+			<property name="PokeBody Text" value="" />
+			<property name="PokePower" value="0" />
+			<property name="PokePower Text" value="" />
+			<property name="Ability" value="" />
+			<property name="AtkName1" value="Water Gun" />
+			<property name="AtkPower1" value="" />
+			<property name="AtkText1" value="" />
+			<property name="AtkName2" value="0" />
+			<property name="AtkPower2" value="" />
+			<property name="AtkText2" value="" />
+			<property name="AtkName3" value="0" />
+			<property name="AtkPower3" value="" />
+			<property name="AtkText3" value="" />
+			<property name="Weakness" value="Grass x 2" />
+			<property name="Resistance" value="" />
+			<property name="Retreat Cost" value="1" />
+			<property name="Energy Type" value="" />
+			<property name="Rarity" value="Common" />
+		</card>
+		<card id="cf249db4-5384-4461-882c-d2d881c8cd12" name="Ponyta">
+			<property name="Card Type" value="Pokemon" />
+			<property name="Pokemon Type" value="Fire" />
+			<property name="HP" value="40" />
+			<property name="Pokemon Stage" value="Basic" />
+			<property name="Card Text" value="" />
+			<property name="PokeBody" value="0" />
+			<property name="PokeBody Text" value="" />
+			<property name="PokePower" value="0" />
+			<property name="PokePower Text" value="" />
+			<property name="Ability" value="" />
+			<property name="AtkName1" value="Smash Kick" />
+			<property name="AtkPower1" value="" />
+			<property name="AtkText1" value="" />
+			<property name="AtkName2" value="Flame Tail" />
+			<property name="AtkPower2" value="" />
+			<property name="AtkText2" value="" />
+			<property name="AtkName3" value="0" />
+			<property name="AtkPower3" value="" />
+			<property name="AtkText3" value="" />
+			<property name="Weakness" value="Water x 2" />
+			<property name="Resistance" value="" />
+			<property name="Retreat Cost" value="1" />
+			<property name="Energy Type" value="" />
+			<property name="Rarity" value="Common" />
+		</card>
+		<card id="86f100a4-81ea-4f72-81ba-d57ea4872186" name="Rattata">
+			<property name="Card Type" value="Pokemon" />
+			<property name="Pokemon Type" value="Colorless" />
+			<property name="HP" value="30" />
+			<property name="Pokemon Stage" value="Basic" />
+			<property name="Card Text" value="" />
+			<property name="PokeBody" value="0" />
+			<property name="PokeBody Text" value="" />
+			<property name="PokePower" value="0" />
+			<property name="PokePower Text" value="" />
+			<property name="Ability" value="" />
+			<property name="AtkName1" value="Bite" />
+			<property name="AtkPower1" value="" />
+			<property name="AtkText1" value="" />
+			<property name="AtkName2" value="0" />
+			<property name="AtkPower2" value="" />
+			<property name="AtkText2" value="" />
+			<property name="AtkName3" value="0" />
+			<property name="AtkPower3" value="" />
+			<property name="AtkText3" value="" />
+			<property name="Weakness" value="Fighting x 2" />
+			<property name="Resistance" value="Psychic - 30" />
+			<property name="Retreat Cost" value="0" />
+			<property name="Energy Type" value="" />
+			<property name="Rarity" value="Common" />
+		</card>
+		<card id="2979dd16-69bf-4103-8595-18d1f0ccbf6c" name="Sandshrew">
+			<property name="Card Type" value="Pokemon" />
+			<property name="Pokemon Type" value="Fighting" />
+			<property name="HP" value="40" />
+			<property name="Pokemon Stage" value="Basic" />
+			<property name="Card Text" value="" />
+			<property name="PokeBody" value="0" />
+			<property name="PokeBody Text" value="" />
+			<property name="PokePower" value="0" />
+			<property name="PokePower Text" value="" />
+			<property name="Ability" value="" />
+			<property name="AtkName1" value="Sand-attack" />
+			<property name="AtkPower1" value="" />
+			<property name="AtkText1" value="" />
+			<property name="AtkName2" value="0" />
+			<property name="AtkPower2" value="" />
+			<property name="AtkText2" value="" />
+			<property name="AtkName3" value="0" />
+			<property name="AtkPower3" value="" />
+			<property name="AtkText3" value="" />
+			<property name="Weakness" value="Grass x 2" />
+			<property name="Resistance" value="Lightning - 30" />
+			<property name="Retreat Cost" value="1" />
+			<property name="Energy Type" value="" />
+			<property name="Rarity" value="Common" />
+		</card>
+		<card id="225dd338-01d1-4257-a945-3c2bccd2111b" name="Squirtle">
+			<property name="Card Type" value="Pokemon" />
+			<property name="Pokemon Type" value="Water" />
+			<property name="HP" value="40" />
+			<property name="Pokemon Stage" value="Basic" />
+			<property name="Card Text" value="" />
+			<property name="PokeBody" value="0" />
+			<property name="PokeBody Text" value="" />
+			<property name="PokePower" value="0" />
+			<property name="PokePower Text" value="" />
+			<property name="Ability" value="" />
+			<property name="AtkName1" value="Bubble" />
+			<property name="AtkPower1" value="" />
+			<property name="AtkText1" value="" />
+			<property name="AtkName2" value="Withdraw" />
+			<property name="AtkPower2" value="" />
+			<property name="AtkText2" value="" />
+			<property name="AtkName3" value="0" />
+			<property name="AtkPower3" value="" />
+			<property name="AtkText3" value="" />
+			<property name="Weakness" value="Lightning x 2" />
+			<property name="Resistance" value="" />
+			<property name="Retreat Cost" value="1" />
+			<property name="Energy Type" value="" />
+			<property name="Rarity" value="Common" />
+		</card>
+		<card id="31383dd2-413a-472c-89a2-44a6d7aa6dab" name="Starmie">
+			<property name="Card Type" value="Pokemone" />
+			<property name="Pokemon Type" value="Water" />
+			<property name="HP" value="60" />
+			<property name="Pokemon Stage" value="Stage 1" />
+			<property name="Card Text" value="" />
+			<property name="PokeBody" value="0" />
+			<property name="PokeBody Text" value="" />
+			<property name="PokePower" value="0" />
+			<property name="PokePower Text" value="" />
+			<property name="Ability" value="" />
+			<property name="AtkName1" value="Recover" />
+			<property name="AtkPower1" value="" />
+			<property name="AtkText1" value="" />
+			<property name="AtkName2" value="Star Freeze" />
+			<property name="AtkPower2" value="" />
+			<property name="AtkText2" value="" />
+			<property name="AtkName3" value="0" />
+			<property name="AtkPower3" value="" />
+			<property name="AtkText3" value="" />
+			<property name="Weakness" value="Lightning x 2" />
+			<property name="Resistance" value="" />
+			<property name="Retreat Cost" value="1" />
+			<property name="Energy Type" value="" />
+			<property name="Rarity" value="Common" />
+		</card>
+		<card id="9714eca0-ff9c-45bf-b686-c0c824e5f0ed" name="Staryu">
+			<property name="Card Type" value="Pokemon" />
+			<property name="Pokemon Type" value="Water" />
+			<property name="HP" value="40" />
+			<property name="Pokemon Stage" value="Basic" />
+			<property name="Card Text" value="" />
+			<property name="PokeBody" value="0" />
+			<property name="PokeBody Text" value="" />
+			<property name="PokePower" value="0" />
+			<property name="PokePower Text" value="" />
+			<property name="Ability" value="" />
+			<property name="AtkName1" value="Slap" />
+			<property name="AtkPower1" value="" />
+			<property name="AtkText1" value="" />
+			<property name="AtkName2" value="0" />
+			<property name="AtkPower2" value="" />
+			<property name="AtkText2" value="" />
+			<property name="AtkName3" value="0" />
+			<property name="AtkPower3" value="" />
+			<property name="AtkText3" value="" />
+			<property name="Weakness" value="Lightning x 2" />
+			<property name="Resistance" value="" />
+			<property name="Retreat Cost" value="1" />
+			<property name="Energy Type" value="" />
+			<property name="Rarity" value="Common" />
+		</card>
+		<card id="e8e1cde5-dcf3-4e10-8b47-0543c99a0edc" name="Tangela">
+			<property name="Card Type" value="Pokemon" />
+			<property name="Pokemon Type" value="Grass" />
+			<property name="HP" value="50" />
+			<property name="Pokemon Stage" value="Basic" />
+			<property name="Card Text" value="" />
+			<property name="PokeBody" value="0" />
+			<property name="PokeBody Text" value="" />
+			<property name="PokePower" value="0" />
+			<property name="PokePower Text" value="" />
+			<property name="Ability" value="" />
+			<property name="AtkName1" value="Bind" />
+			<property name="AtkPower1" value="" />
+			<property name="AtkText1" value="" />
+			<property name="AtkName2" value="Poisonpowder" />
+			<property name="AtkPower2" value="" />
+			<property name="AtkText2" value="" />
+			<property name="AtkName3" value="0" />
+			<property name="AtkPower3" value="" />
+			<property name="AtkText3" value="" />
+			<property name="Weakness" value="Fire x 2" />
+			<property name="Resistance" value="" />
+			<property name="Retreat Cost" value="2" />
+			<property name="Energy Type" value="" />
+			<property name="Rarity" value="Common" />
+		</card>
+		<card id="14ffb946-4d91-4e06-9bb0-1618283f766e" name="Voltorb">
+			<property name="Card Type" value="Pokemon" />
+			<property name="Pokemon Type" value="Lightning" />
+			<property name="HP" value="40" />
+			<property name="Pokemon Stage" value="Basic" />
+			<property name="Card Text" value="" />
+			<property name="PokeBody" value="0" />
+			<property name="PokeBody Text" value="" />
+			<property name="PokePower" value="0" />
+			<property name="PokePower Text" value="" />
+			<property name="Ability" value="" />
+			<property name="AtkName1" value="Tackle" />
+			<property name="AtkPower1" value="" />
+			<property name="AtkText1" value="" />
+			<property name="AtkName2" value="0" />
+			<property name="AtkPower2" value="" />
+			<property name="AtkText2" value="" />
+			<property name="AtkName3" value="0" />
+			<property name="AtkPower3" value="" />
+			<property name="AtkText3" value="" />
+			<property name="Weakness" value="Fighting x 2" />
+			<property name="Resistance" value="" />
+			<property name="Retreat Cost" value="1" />
+			<property name="Energy Type" value="" />
+			<property name="Rarity" value="Common" />
+		</card>
+		<card id="d55b5aed-5798-4ca1-82ab-fe235ccb49b3" name="Vulpix">
+			<property name="Card Type" value="Pokemon" />
+			<property name="Pokemon Type" value="Fire" />
+			<property name="HP" value="50" />
+			<property name="Pokemon Stage" value="Basic" />
+			<property name="Card Text" value="" />
+			<property name="PokeBody" value="0" />
+			<property name="PokeBody Text" value="" />
+			<property name="PokePower" value="0" />
+			<property name="PokePower Text" value="" />
+			<property name="Ability" value="" />
+			<property name="AtkName1" value="Confuse Ray" />
+			<property name="AtkPower1" value="" />
+			<property name="AtkText1" value="" />
+			<property name="AtkName2" value="0" />
+			<property name="AtkPower2" value="" />
+			<property name="AtkText2" value="" />
+			<property name="AtkName3" value="0" />
+			<property name="AtkPower3" value="" />
+			<property name="AtkText3" value="" />
+			<property name="Weakness" value="Water x 2" />
+			<property name="Resistance" value="" />
+			<property name="Retreat Cost" value="1" />
+			<property name="Energy Type" value="" />
+			<property name="Rarity" value="Common" />
+		</card>
+		<card id="192f5f08-2c82-4161-9afd-b6be2c2336f8" name="Weedle">
+			<property name="Card Type" value="Pokemon" />
+			<property name="Pokemon Type" value="Grass" />
+			<property name="HP" value="40" />
+			<property name="Pokemon Stage" value="Basic" />
+			<property name="Card Text" value="" />
+			<property name="PokeBody" value="0" />
+			<property name="PokeBody Text" value="" />
+			<property name="PokePower" value="0" />
+			<property name="PokePower Text" value="" />
+			<property name="Ability" value="" />
+			<property name="AtkName1" value="Poison Sting" />
+			<property name="AtkPower1" value="" />
+			<property name="AtkText1" value="" />
+			<property name="AtkName2" value="0" />
+			<property name="AtkPower2" value="" />
+			<property name="AtkText2" value="" />
+			<property name="AtkName3" value="0" />
+			<property name="AtkPower3" value="" />
+			<property name="AtkText3" value="" />
+			<property name="Weakness" value="Fire x 2" />
+			<property name="Resistance" value="" />
+			<property name="Retreat Cost" value="1" />
+			<property name="Energy Type" value="" />
+			<property name="Rarity" value="Common" />
+		</card>
+		<card id="a9894e2b-9fc9-413b-80f1-5cc84a427249" name="Clefairy Doll">
+			<property name="Card Type" value="Trainer" />
+			<property name="Pokemon Type" value="" />
+			<property name="HP" value="0" />
+			<property name="Pokemon Stage" value="" />
+			<property name="Card Text" value="" />
+			<property name="PokeBody" value="" />
+			<property name="PokeBody Text" value="" />
+			<property name="PokePower" value="0" />
+			<property name="PokePower Text" value="" />
+			<property name="Ability" value="" />
+			<property name="AtkName1" value="0" />
+			<property name="AtkPower1" value="" />
+			<property name="AtkText1" value="" />
+			<property name="AtkName2" value="0" />
+			<property name="AtkPower2" value="" />
+			<property name="AtkText2" value="" />
+			<property name="AtkName3" value="0" />
+			<property name="AtkPower3" value="" />
+			<property name="AtkText3" value="" />
+			<property name="Weakness" value="" />
+			<property name="Resistance" value="" />
+			<property name="Retreat Cost" value="" />
+			<property name="Energy Type" value="" />
+			<property name="Rarity" value="Rare" />
+		</card>
+		<card id="a1b5f538-b476-4bfe-a91d-285568701658" name="Computer Search">
+			<property name="Card Type" value="Trainer" />
+			<property name="Pokemon Type" value="" />
+			<property name="HP" value="0" />
+			<property name="Pokemon Stage" value="" />
+			<property name="Card Text" value="" />
+			<property name="PokeBody" value="" />
+			<property name="PokeBody Text" value="" />
+			<property name="PokePower" value="0" />
+			<property name="PokePower Text" value="" />
+			<property name="Ability" value="" />
+			<property name="AtkName1" value="0" />
+			<property name="AtkPower1" value="" />
+			<property name="AtkText1" value="" />
+			<property name="AtkName2" value="0" />
+			<property name="AtkPower2" value="" />
+			<property name="AtkText2" value="" />
+			<property name="AtkName3" value="0" />
+			<property name="AtkPower3" value="" />
+			<property name="AtkText3" value="" />
+			<property name="Weakness" value="" />
+			<property name="Resistance" value="" />
+			<property name="Retreat Cost" value="" />
+			<property name="Energy Type" value="" />
+			<property name="Rarity" value="Rare" />
+		</card>
+		<card id="67a21585-d182-4912-9bcd-3c013ceda769" name="Devolution Spray">
+			<property name="Card Type" value="Trainer" />
+			<property name="Pokemon Type" value="" />
+			<property name="HP" value="0" />
+			<property name="Pokemon Stage" value="" />
+			<property name="Card Text" value="" />
+			<property name="PokeBody" value="" />
+			<property name="PokeBody Text" value="" />
+			<property name="PokePower" value="0" />
+			<property name="PokePower Text" value="" />
+			<property name="Ability" value="" />
+			<property name="AtkName1" value="0" />
+			<property name="AtkPower1" value="" />
+			<property name="AtkText1" value="" />
+			<property name="AtkName2" value="0" />
+			<property name="AtkPower2" value="" />
+			<property name="AtkText2" value="" />
+			<property name="AtkName3" value="0" />
+			<property name="AtkPower3" value="" />
+			<property name="AtkText3" value="" />
+			<property name="Weakness" value="" />
+			<property name="Resistance" value="" />
+			<property name="Retreat Cost" value="" />
+			<property name="Energy Type" value="" />
+			<property name="Rarity" value="Rare" />
+		</card>
+		<card id="5e7512a9-cc7b-4746-83c7-66d1275e2c7e" name="Imposter Professor Oak">
+			<property name="Card Type" value="Trainer" />
+			<property name="Pokemon Type" value="" />
+			<property name="HP" value="0" />
+			<property name="Pokemon Stage" value="" />
+			<property name="Card Text" value="" />
+			<property name="PokeBody" value="" />
+			<property name="PokeBody Text" value="" />
+			<property name="PokePower" value="0" />
+			<property name="PokePower Text" value="" />
+			<property name="Ability" value="" />
+			<property name="AtkName1" value="0" />
+			<property name="AtkPower1" value="" />
+			<property name="AtkText1" value="" />
+			<property name="AtkName2" value="0" />
+			<property name="AtkPower2" value="" />
+			<property name="AtkText2" value="" />
+			<property name="AtkName3" value="0" />
+			<property name="AtkPower3" value="" />
+			<property name="AtkText3" value="" />
+			<property name="Weakness" value="" />
+			<property name="Resistance" value="" />
+			<property name="Retreat Cost" value="" />
+			<property name="Energy Type" value="" />
+			<property name="Rarity" value="Rare" />
+		</card>
+		<card id="8bc60bcc-d899-45ef-bad1-6f336b0f91f9" name="Item Finder">
+			<property name="Card Type" value="Trainer" />
+			<property name="Pokemon Type" value="" />
+			<property name="HP" value="0" />
+			<property name="Pokemon Stage" value="" />
+			<property name="Card Text" value="" />
+			<property name="PokeBody" value="" />
+			<property name="PokeBody Text" value="" />
+			<property name="PokePower" value="0" />
+			<property name="PokePower Text" value="" />
+			<property name="Ability" value="" />
+			<property name="AtkName1" value="0" />
+			<property name="AtkPower1" value="" />
+			<property name="AtkText1" value="" />
+			<property name="AtkName2" value="0" />
+			<property name="AtkPower2" value="" />
+			<property name="AtkText2" value="" />
+			<property name="AtkName3" value="0" />
+			<property name="AtkPower3" value="" />
+			<property name="AtkText3" value="" />
+			<property name="Weakness" value="" />
+			<property name="Resistance" value="" />
+			<property name="Retreat Cost" value="" />
+			<property name="Energy Type" value="" />
+			<property name="Rarity" value="Rare" />
+		</card>
+		<card id="9c11bd9b-8f47-4c97-8c61-8b168e0e4c68" name="Lass">
+			<property name="Card Type" value="Trainer" />
+			<property name="Pokemon Type" value="" />
+			<property name="HP" value="0" />
+			<property name="Pokemon Stage" value="" />
+			<property name="Card Text" value="" />
+			<property name="PokeBody" value="" />
+			<property name="PokeBody Text" value="" />
+			<property name="PokePower" value="0" />
+			<property name="PokePower Text" value="" />
+			<property name="Ability" value="" />
+			<property name="AtkName1" value="0" />
+			<property name="AtkPower1" value="" />
+			<property name="AtkText1" value="" />
+			<property name="AtkName2" value="0" />
+			<property name="AtkPower2" value="" />
+			<property name="AtkText2" value="" />
+			<property name="AtkName3" value="0" />
+			<property name="AtkPower3" value="" />
+			<property name="AtkText3" value="" />
+			<property name="Weakness" value="" />
+			<property name="Resistance" value="" />
+			<property name="Retreat Cost" value="" />
+			<property name="Energy Type" value="" />
+			<property name="Rarity" value="Rare" />
+		</card>
+		<card id="2abc8565-60c5-45ef-a7ef-a8cf653f5c88" name="Pokemon Breeder">
+			<property name="Card Type" value="Trainer" />
+			<property name="Pokemon Type" value="" />
+			<property name="HP" value="0" />
+			<property name="Pokemon Stage" value="" />
+			<property name="Card Text" value="" />
+			<property name="PokeBody" value="" />
+			<property name="PokeBody Text" value="" />
+			<property name="PokePower" value="0" />
+			<property name="PokePower Text" value="" />
+			<property name="Ability" value="" />
+			<property name="AtkName1" value="0" />
+			<property name="AtkPower1" value="" />
+			<property name="AtkText1" value="" />
+			<property name="AtkName2" value="0" />
+			<property name="AtkPower2" value="" />
+			<property name="AtkText2" value="" />
+			<property name="AtkName3" value="0" />
+			<property name="AtkPower3" value="" />
+			<property name="AtkText3" value="" />
+			<property name="Weakness" value="" />
+			<property name="Resistance" value="" />
+			<property name="Retreat Cost" value="" />
+			<property name="Energy Type" value="" />
+			<property name="Rarity" value="Rare" />
+		</card>
+		<card id="1c77b83f-ec31-46d8-9d54-4adf091f6f84" name="Pokemon Trader">
+			<property name="Card Type" value="Trainer" />
+			<property name="Pokemon Type" value="" />
+			<property name="HP" value="0" />
+			<property name="Pokemon Stage" value="" />
+			<property name="Card Text" value="" />
+			<property name="PokeBody" value="" />
+			<property name="PokeBody Text" value="" />
+			<property name="PokePower" value="0" />
+			<property name="PokePower Text" value="" />
+			<property name="Ability" value="" />
+			<property name="AtkName1" value="0" />
+			<property name="AtkPower1" value="" />
+			<property name="AtkText1" value="" />
+			<property name="AtkName2" value="0" />
+			<property name="AtkPower2" value="" />
+			<property name="AtkText2" value="" />
+			<property name="AtkName3" value="0" />
+			<property name="AtkPower3" value="" />
+			<property name="AtkText3" value="" />
+			<property name="Weakness" value="" />
+			<property name="Resistance" value="" />
+			<property name="Retreat Cost" value="" />
+			<property name="Energy Type" value="" />
+			<property name="Rarity" value="Rare" />
+		</card>
+		<card id="794e0eb5-4be3-454e-8b6a-b4b029a16f4e" name="Scoop Up">
+			<property name="Card Type" value="Trainer" />
+			<property name="Pokemon Type" value="" />
+			<property name="HP" value="0" />
+			<property name="Pokemon Stage" value="" />
+			<property name="Card Text" value="" />
+			<property name="PokeBody" value="" />
+			<property name="PokeBody Text" value="" />
+			<property name="PokePower" value="0" />
+			<property name="PokePower Text" value="" />
+			<property name="Ability" value="" />
+			<property name="AtkName1" value="0" />
+			<property name="AtkPower1" value="" />
+			<property name="AtkText1" value="" />
+			<property name="AtkName2" value="0" />
+			<property name="AtkPower2" value="" />
+			<property name="AtkText2" value="" />
+			<property name="AtkName3" value="0" />
+			<property name="AtkPower3" value="" />
+			<property name="AtkText3" value="" />
+			<property name="Weakness" value="" />
+			<property name="Resistance" value="" />
+			<property name="Retreat Cost" value="" />
+			<property name="Energy Type" value="" />
+			<property name="Rarity" value="Rare" />
+		</card>
+		<card id="b6bbf30d-0e3a-4ca1-888f-f1ea5a8da829" name="Super Energy Removal">
+			<property name="Card Type" value="Trainer" />
+			<property name="Pokemon Type" value="" />
+			<property name="HP" value="0" />
+			<property name="Pokemon Stage" value="" />
+			<property name="Card Text" value="" />
+			<property name="PokeBody" value="" />
+			<property name="PokeBody Text" value="" />
+			<property name="PokePower" value="0" />
+			<property name="PokePower Text" value="" />
+			<property name="Ability" value="" />
+			<property name="AtkName1" value="0" />
+			<property name="AtkPower1" value="" />
+			<property name="AtkText1" value="" />
+			<property name="AtkName2" value="0" />
+			<property name="AtkPower2" value="" />
+			<property name="AtkText2" value="" />
+			<property name="AtkName3" value="0" />
+			<property name="AtkPower3" value="" />
+			<property name="AtkText3" value="" />
+			<property name="Weakness" value="" />
+			<property name="Resistance" value="" />
+			<property name="Retreat Cost" value="" />
+			<property name="Energy Type" value="" />
+			<property name="Rarity" value="Rare" />
+		</card>
+		<card id="abae5e61-2a6c-467f-b189-b7ffc3a3d061" name="Defender">
+			<property name="Card Type" value="Trainer" />
+			<property name="Pokemon Type" value="" />
+			<property name="HP" value="0" />
+			<property name="Pokemon Stage" value="" />
+			<property name="Card Text" value="" />
+			<property name="PokeBody" value="" />
+			<property name="PokeBody Text" value="" />
+			<property name="PokePower" value="0" />
+			<property name="PokePower Text" value="" />
+			<property name="Ability" value="" />
+			<property name="AtkName1" value="0" />
+			<property name="AtkPower1" value="" />
+			<property name="AtkText1" value="" />
+			<property name="AtkName2" value="0" />
+			<property name="AtkPower2" value="" />
+			<property name="AtkText2" value="" />
+			<property name="AtkName3" value="0" />
+			<property name="AtkPower3" value="" />
+			<property name="AtkText3" value="" />
+			<property name="Weakness" value="" />
+			<property name="Resistance" value="" />
+			<property name="Retreat Cost" value="" />
+			<property name="Energy Type" value="" />
+			<property name="Rarity" value="Uncommon" />
+		</card>
+		<card id="f000674a-408d-4dba-b7e8-19938a80a07a" name="Energy Retrieval">
+			<property name="Card Type" value="Trainer" />
+			<property name="Pokemon Type" value="" />
+			<property name="HP" value="0" />
+			<property name="Pokemon Stage" value="" />
+			<property name="Card Text" value="" />
+			<property name="PokeBody" value="" />
+			<property name="PokeBody Text" value="" />
+			<property name="PokePower" value="0" />
+			<property name="PokePower Text" value="" />
+			<property name="Ability" value="" />
+			<property name="AtkName1" value="0" />
+			<property name="AtkPower1" value="" />
+			<property name="AtkText1" value="" />
+			<property name="AtkName2" value="0" />
+			<property name="AtkPower2" value="" />
+			<property name="AtkText2" value="" />
+			<property name="AtkName3" value="0" />
+			<property name="AtkPower3" value="" />
+			<property name="AtkText3" value="" />
+			<property name="Weakness" value="" />
+			<property name="Resistance" value="" />
+			<property name="Retreat Cost" value="" />
+			<property name="Energy Type" value="" />
+			<property name="Rarity" value="Uncommon" />
+		</card>
+		<card id="55999f88-0fd0-4288-b3d9-8828d27d171e" name="Full Heal">
+			<property name="Card Type" value="Trainer" />
+			<property name="Pokemon Type" value="" />
+			<property name="HP" value="0" />
+			<property name="Pokemon Stage" value="" />
+			<property name="Card Text" value="" />
+			<property name="PokeBody" value="" />
+			<property name="PokeBody Text" value="" />
+			<property name="PokePower" value="0" />
+			<property name="PokePower Text" value="" />
+			<property name="Ability" value="" />
+			<property name="AtkName1" value="0" />
+			<property name="AtkPower1" value="" />
+			<property name="AtkText1" value="" />
+			<property name="AtkName2" value="0" />
+			<property name="AtkPower2" value="" />
+			<property name="AtkText2" value="" />
+			<property name="AtkName3" value="0" />
+			<property name="AtkPower3" value="" />
+			<property name="AtkText3" value="" />
+			<property name="Weakness" value="" />
+			<property name="Resistance" value="" />
+			<property name="Retreat Cost" value="" />
+			<property name="Energy Type" value="" />
+			<property name="Rarity" value="Uncommon" />
+		</card>
+		<card id="1c5c2218-e3ee-4ea4-8054-015316edea8c" name="Maintenance">
+			<property name="Card Type" value="Trainer" />
+			<property name="Pokemon Type" value="" />
+			<property name="HP" value="0" />
+			<property name="Pokemon Stage" value="" />
+			<property name="Card Text" value="" />
+			<property name="PokeBody" value="" />
+			<property name="PokeBody Text" value="" />
+			<property name="PokePower" value="0" />
+			<property name="PokePower Text" value="" />
+			<property name="Ability" value="" />
+			<property name="AtkName1" value="0" />
+			<property name="AtkPower1" value="" />
+			<property name="AtkText1" value="" />
+			<property name="AtkName2" value="0" />
+			<property name="AtkPower2" value="" />
+			<property name="AtkText2" value="" />
+			<property name="AtkName3" value="0" />
+			<property name="AtkPower3" value="" />
+			<property name="AtkText3" value="" />
+			<property name="Weakness" value="" />
+			<property name="Resistance" value="" />
+			<property name="Retreat Cost" value="" />
+			<property name="Energy Type" value="" />
+			<property name="Rarity" value="Uncommon" />
+		</card>
+		<card id="5eb87858-e19a-4b82-a0d0-f1ff41732745" name="PlusPower">
+			<property name="Card Type" value="Trainer" />
+			<property name="Pokemon Type" value="" />
+			<property name="HP" value="0" />
+			<property name="Pokemon Stage" value="" />
+			<property name="Card Text" value="" />
+			<property name="PokeBody" value="" />
+			<property name="PokeBody Text" value="" />
+			<property name="PokePower" value="0" />
+			<property name="PokePower Text" value="" />
+			<property name="Ability" value="" />
+			<property name="AtkName1" value="0" />
+			<property name="AtkPower1" value="" />
+			<property name="AtkText1" value="" />
+			<property name="AtkName2" value="0" />
+			<property name="AtkPower2" value="" />
+			<property name="AtkText2" value="" />
+			<property name="AtkName3" value="0" />
+			<property name="AtkPower3" value="" />
+			<property name="AtkText3" value="" />
+			<property name="Weakness" value="" />
+			<property name="Resistance" value="" />
+			<property name="Retreat Cost" value="" />
+			<property name="Energy Type" value="" />
+			<property name="Rarity" value="Uncommon" />
+		</card>
+		<card id="c9081b9e-0e73-404f-ac4c-22c45b0eebc0" name="Pokemon Center">
+			<property name="Card Type" value="Trainer" />
+			<property name="Pokemon Type" value="" />
+			<property name="HP" value="0" />
+			<property name="Pokemon Stage" value="" />
+			<property name="Card Text" value="" />
+			<property name="PokeBody" value="" />
+			<property name="PokeBody Text" value="" />
+			<property name="PokePower" value="0" />
+			<property name="PokePower Text" value="" />
+			<property name="Ability" value="" />
+			<property name="AtkName1" value="0" />
+			<property name="AtkPower1" value="" />
+			<property name="AtkText1" value="" />
+			<property name="AtkName2" value="0" />
+			<property name="AtkPower2" value="" />
+			<property name="AtkText2" value="" />
+			<property name="AtkName3" value="0" />
+			<property name="AtkPower3" value="" />
+			<property name="AtkText3" value="" />
+			<property name="Weakness" value="" />
+			<property name="Resistance" value="" />
+			<property name="Retreat Cost" value="" />
+			<property name="Energy Type" value="" />
+			<property name="Rarity" value="Uncommon" />
+		</card>
+		<card id="986b2dc1-c24f-403a-8ae3-0fefdf2c6ae4" name="Pokemon Flute">
+			<property name="Card Type" value="Trainer" />
+			<property name="Pokemon Type" value="" />
+			<property name="HP" value="0" />
+			<property name="Pokemon Stage" value="" />
+			<property name="Card Text" value="" />
+			<property name="PokeBody" value="" />
+			<property name="PokeBody Text" value="" />
+			<property name="PokePower" value="0" />
+			<property name="PokePower Text" value="" />
+			<property name="Ability" value="" />
+			<property name="AtkName1" value="0" />
+			<property name="AtkPower1" value="" />
+			<property name="AtkText1" value="" />
+			<property name="AtkName2" value="0" />
+			<property name="AtkPower2" value="" />
+			<property name="AtkText2" value="" />
+			<property name="AtkName3" value="0" />
+			<property name="AtkPower3" value="" />
+			<property name="AtkText3" value="" />
+			<property name="Weakness" value="" />
+			<property name="Resistance" value="" />
+			<property name="Retreat Cost" value="" />
+			<property name="Energy Type" value="" />
+			<property name="Rarity" value="Uncommon" />
+		</card>
+		<card id="bec4c73a-f029-4623-9680-4e60ba5a5d85" name="Pokedex">
+			<property name="Card Type" value="Trainer" />
+			<property name="Pokemon Type" value="" />
+			<property name="HP" value="0" />
+			<property name="Pokemon Stage" value="" />
+			<property name="Card Text" value="" />
+			<property name="PokeBody" value="" />
+			<property name="PokeBody Text" value="" />
+			<property name="PokePower" value="0" />
+			<property name="PokePower Text" value="" />
+			<property name="Ability" value="" />
+			<property name="AtkName1" value="0" />
+			<property name="AtkPower1" value="" />
+			<property name="AtkText1" value="" />
+			<property name="AtkName2" value="0" />
+			<property name="AtkPower2" value="" />
+			<property name="AtkText2" value="" />
+			<property name="AtkName3" value="0" />
+			<property name="AtkPower3" value="" />
+			<property name="AtkText3" value="" />
+			<property name="Weakness" value="" />
+			<property name="Resistance" value="" />
+			<property name="Retreat Cost" value="" />
+			<property name="Energy Type" value="" />
+			<property name="Rarity" value="Uncommon" />
+		</card>
+		<card id="2bcc30c9-7e1b-483b-86d7-b85af653e4ab" name="Professor Oak">
+			<property name="Card Type" value="Trainer" />
+			<property name="Pokemon Type" value="" />
+			<property name="HP" value="0" />
+			<property name="Pokemon Stage" value="" />
+			<property name="Card Text" value="" />
+			<property name="PokeBody" value="" />
+			<property name="PokeBody Text" value="" />
+			<property name="PokePower" value="0" />
+			<property name="PokePower Text" value="" />
+			<property name="Ability" value="" />
+			<property name="AtkName1" value="0" />
+			<property name="AtkPower1" value="" />
+			<property name="AtkText1" value="" />
+			<property name="AtkName2" value="0" />
+			<property name="AtkPower2" value="" />
+			<property name="AtkText2" value="" />
+			<property name="AtkName3" value="0" />
+			<property name="AtkPower3" value="" />
+			<property name="AtkText3" value="" />
+			<property name="Weakness" value="" />
+			<property name="Resistance" value="" />
+			<property name="Retreat Cost" value="" />
+			<property name="Energy Type" value="" />
+			<property name="Rarity" value="Uncommon" />
+		</card>
+		<card id="7ab4d24d-25c5-46ad-b077-d32ba8b4e8d0" name="Revive">
+			<property name="Card Type" value="Trainer" />
+			<property name="Pokemon Type" value="" />
+			<property name="HP" value="0" />
+			<property name="Pokemon Stage" value="" />
+			<property name="Card Text" value="" />
+			<property name="PokeBody" value="" />
+			<property name="PokeBody Text" value="" />
+			<property name="PokePower" value="0" />
+			<property name="PokePower Text" value="" />
+			<property name="Ability" value="" />
+			<property name="AtkName1" value="0" />
+			<property name="AtkPower1" value="" />
+			<property name="AtkText1" value="" />
+			<property name="AtkName2" value="0" />
+			<property name="AtkPower2" value="" />
+			<property name="AtkText2" value="" />
+			<property name="AtkName3" value="0" />
+			<property name="AtkPower3" value="" />
+			<property name="AtkText3" value="" />
+			<property name="Weakness" value="" />
+			<property name="Resistance" value="" />
+			<property name="Retreat Cost" value="" />
+			<property name="Energy Type" value="" />
+			<property name="Rarity" value="Uncommon" />
+		</card>
+		<card id="4912ca36-f9d1-4f81-a546-657f0df6a8cb" name="Super Potion">
+			<property name="Card Type" value="Trainer" />
+			<property name="Pokemon Type" value="" />
+			<property name="HP" value="0" />
+			<property name="Pokemon Stage" value="" />
+			<property name="Card Text" value="" />
+			<property name="PokeBody" value="" />
+			<property name="PokeBody Text" value="" />
+			<property name="PokePower" value="0" />
+			<property name="PokePower Text" value="" />
+			<property name="Ability" value="" />
+			<property name="AtkName1" value="0" />
+			<property name="AtkPower1" value="" />
+			<property name="AtkText1" value="" />
+			<property name="AtkName2" value="0" />
+			<property name="AtkPower2" value="" />
+			<property name="AtkText2" value="" />
+			<property name="AtkName3" value="0" />
+			<property name="AtkPower3" value="" />
+			<property name="AtkText3" value="" />
+			<property name="Weakness" value="" />
+			<property name="Resistance" value="" />
+			<property name="Retreat Cost" value="" />
+			<property name="Energy Type" value="" />
+			<property name="Rarity" value="Uncommon" />
+		</card>
+		<card id="c457a606-2e64-4bd6-b52a-95592ebb63cf" name="Bill">
+			<property name="Card Type" value="Trainer" />
+			<property name="Pokemon Type" value="" />
+			<property name="HP" value="0" />
+			<property name="Pokemon Stage" value="" />
+			<property name="Card Text" value="" />
+			<property name="PokeBody" value="" />
+			<property name="PokeBody Text" value="" />
+			<property name="PokePower" value="0" />
+			<property name="PokePower Text" value="" />
+			<property name="Ability" value="" />
+			<property name="AtkName1" value="0" />
+			<property name="AtkPower1" value="" />
+			<property name="AtkText1" value="" />
+			<property name="AtkName2" value="0" />
+			<property name="AtkPower2" value="" />
+			<property name="AtkText2" value="" />
+			<property name="AtkName3" value="0" />
+			<property name="AtkPower3" value="" />
+			<property name="AtkText3" value="" />
+			<property name="Weakness" value="" />
+			<property name="Resistance" value="" />
+			<property name="Retreat Cost" value="" />
+			<property name="Energy Type" value="" />
+			<property name="Rarity" value="Common" />
+		</card>
+		<card id="801c1188-5e8b-4240-8cbd-e78c77cd34b1" name="Energy Removal">
+			<property name="Card Type" value="Trainer" />
+			<property name="Pokemon Type" value="" />
+			<property name="HP" value="0" />
+			<property name="Pokemon Stage" value="" />
+			<property name="Card Text" value="" />
+			<property name="PokeBody" value="" />
+			<property name="PokeBody Text" value="" />
+			<property name="PokePower" value="0" />
+			<property name="PokePower Text" value="" />
+			<property name="Ability" value="" />
+			<property name="AtkName1" value="0" />
+			<property name="AtkPower1" value="" />
+			<property name="AtkText1" value="" />
+			<property name="AtkName2" value="0" />
+			<property name="AtkPower2" value="" />
+			<property name="AtkText2" value="" />
+			<property name="AtkName3" value="0" />
+			<property name="AtkPower3" value="" />
+			<property name="AtkText3" value="" />
+			<property name="Weakness" value="" />
+			<property name="Resistance" value="" />
+			<property name="Retreat Cost" value="" />
+			<property name="Energy Type" value="" />
+			<property name="Rarity" value="Common" />
+		</card>
+		<card id="7c0a3e71-1da9-4f95-aa27-82118389fce0" name="Gust of Wind">
+			<property name="Card Type" value="Trainer" />
+			<property name="Pokemon Type" value="" />
+			<property name="HP" value="0" />
+			<property name="Pokemon Stage" value="" />
+			<property name="Card Text" value="" />
+			<property name="PokeBody" value="" />
+			<property name="PokeBody Text" value="" />
+			<property name="PokePower" value="0" />
+			<property name="PokePower Text" value="" />
+			<property name="Ability" value="" />
+			<property name="AtkName1" value="0" />
+			<property name="AtkPower1" value="" />
+			<property name="AtkText1" value="" />
+			<property name="AtkName2" value="0" />
+			<property name="AtkPower2" value="" />
+			<property name="AtkText2" value="" />
+			<property name="AtkName3" value="0" />
+			<property name="AtkPower3" value="" />
+			<property name="AtkText3" value="" />
+			<property name="Weakness" value="" />
+			<property name="Resistance" value="" />
+			<property name="Retreat Cost" value="" />
+			<property name="Energy Type" value="" />
+			<property name="Rarity" value="Common" />
+		</card>
+		<card id="8dc1e0f9-add4-464e-b6fd-72ef0fe0ba0d" name="Potion">
+			<property name="Card Type" value="Trainer" />
+			<property name="Pokemon Type" value="" />
+			<property name="HP" value="0" />
+			<property name="Pokemon Stage" value="" />
+			<property name="Card Text" value="" />
+			<property name="PokeBody" value="" />
+			<property name="PokeBody Text" value="" />
+			<property name="PokePower" value="0" />
+			<property name="PokePower Text" value="" />
+			<property name="Ability" value="" />
+			<property name="AtkName1" value="0" />
+			<property name="AtkPower1" value="" />
+			<property name="AtkText1" value="" />
+			<property name="AtkName2" value="0" />
+			<property name="AtkPower2" value="" />
+			<property name="AtkText2" value="" />
+			<property name="AtkName3" value="0" />
+			<property name="AtkPower3" value="" />
+			<property name="AtkText3" value="" />
+			<property name="Weakness" value="" />
+			<property name="Resistance" value="" />
+			<property name="Retreat Cost" value="" />
+			<property name="Energy Type" value="" />
+			<property name="Rarity" value="Common" />
+		</card>
+		<card id="5228396e-5150-4feb-9e58-966467b21f4c" name="Switch">
+			<property name="Card Type" value="Trainer" />
+			<property name="Pokemon Type" value="" />
+			<property name="HP" value="0" />
+			<property name="Pokemon Stage" value="" />
+			<property name="Card Text" value="" />
+			<property name="PokeBody" value="" />
+			<property name="PokeBody Text" value="" />
+			<property name="PokePower" value="0" />
+			<property name="PokePower Text" value="" />
+			<property name="Ability" value="" />
+			<property name="AtkName1" value="0" />
+			<property name="AtkPower1" value="" />
+			<property name="AtkText1" value="" />
+			<property name="AtkName2" value="0" />
+			<property name="AtkPower2" value="" />
+			<property name="AtkText2" value="" />
+			<property name="AtkName3" value="0" />
+			<property name="AtkPower3" value="" />
+			<property name="AtkText3" value="" />
+			<property name="Weakness" value="" />
+			<property name="Resistance" value="" />
+			<property name="Retreat Cost" value="" />
+			<property name="Energy Type" value="" />
+			<property name="Rarity" value="Common" />
+		</card>
+		<card id="82189ee9-d2e6-4c02-a77f-9e2f54c991da" name="Double Colorless Energy">
+			<property name="Card Type" value="Energy" />
+			<property name="Pokemon Type" value="" />
+			<property name="HP" value="0" />
+			<property name="Pokemon Stage" value="" />
+			<property name="Card Text" value="" />
+			<property name="PokeBody" value="" />
+			<property name="PokeBody Text" value="" />
+			<property name="PokePower" value="0" />
+			<property name="PokePower Text" value="" />
+			<property name="Ability" value="" />
+			<property name="AtkName1" value="0" />
+			<property name="AtkPower1" value="" />
+			<property name="AtkText1" value="" />
+			<property name="AtkName2" value="0" />
+			<property name="AtkPower2" value="" />
+			<property name="AtkText2" value="" />
+			<property name="AtkName3" value="0" />
+			<property name="AtkPower3" value="" />
+			<property name="AtkText3" value="" />
+			<property name="Weakness" value="" />
+			<property name="Resistance" value="" />
+			<property name="Retreat Cost" value="" />
+			<property name="Energy Type" value="Special Energy" />
+			<property name="Rarity" value="Uncommon" />
+		</card>
+		<card id="06663e37-2e62-4fb3-9801-fdf708119bfa" name="Fighting Energy">
+			<property name="Card Type" value="Energy" />
+			<property name="Pokemon Type" value="" />
+			<property name="HP" value="0" />
+			<property name="Pokemon Stage" value="" />
+			<property name="Card Text" value="" />
+			<property name="PokeBody" value="" />
+			<property name="PokeBody Text" value="" />
+			<property name="PokePower" value="0" />
+			<property name="PokePower Text" value="" />
+			<property name="Ability" value="" />
+			<property name="AtkName1" value="0" />
+			<property name="AtkPower1" value="" />
+			<property name="AtkText1" value="" />
+			<property name="AtkName2" value="0" />
+			<property name="AtkPower2" value="" />
+			<property name="AtkText2" value="" />
+			<property name="AtkName3" value="0" />
+			<property name="AtkPower3" value="" />
+			<property name="AtkText3" value="" />
+			<property name="Weakness" value="" />
+			<property name="Resistance" value="" />
+			<property name="Retreat Cost" value="" />
+			<property name="Energy Type" value="Basic" />
+			<property name="Rarity" value="Common" />
+		</card>
+		<card id="ddf0832d-51fb-4428-9c24-db7dd29160e0" name="Fire Energy">
+			<property name="Card Type" value="Energy" />
+			<property name="Pokemon Type" value="" />
+			<property name="HP" value="0" />
+			<property name="Pokemon Stage" value="" />
+			<property name="Card Text" value="" />
+			<property name="PokeBody" value="" />
+			<property name="PokeBody Text" value="" />
+			<property name="PokePower" value="0" />
+			<property name="PokePower Text" value="" />
+			<property name="Ability" value="" />
+			<property name="AtkName1" value="0" />
+			<property name="AtkPower1" value="" />
+			<property name="AtkText1" value="" />
+			<property name="AtkName2" value="0" />
+			<property name="AtkPower2" value="" />
+			<property name="AtkText2" value="" />
+			<property name="AtkName3" value="0" />
+			<property name="AtkPower3" value="" />
+			<property name="AtkText3" value="" />
+			<property name="Weakness" value="" />
+			<property name="Resistance" value="" />
+			<property name="Retreat Cost" value="" />
+			<property name="Energy Type" value="Basic" />
+			<property name="Rarity" value="Common" />
+		</card>
+		<card id="5e92f84c-fbd3-4289-9db6-5f68958c40e5" name="Grass Energy">
+			<property name="Card Type" value="Energy" />
+			<property name="Pokemon Type" value="" />
+			<property name="HP" value="0" />
+			<property name="Pokemon Stage" value="" />
+			<property name="Card Text" value="" />
+			<property name="PokeBody" value="" />
+			<property name="PokeBody Text" value="" />
+			<property name="PokePower" value="0" />
+			<property name="PokePower Text" value="" />
+			<property name="Ability" value="" />
+			<property name="AtkName1" value="0" />
+			<property name="AtkPower1" value="" />
+			<property name="AtkText1" value="" />
+			<property name="AtkName2" value="0" />
+			<property name="AtkPower2" value="" />
+			<property name="AtkText2" value="" />
+			<property name="AtkName3" value="0" />
+			<property name="AtkPower3" value="" />
+			<property name="AtkText3" value="" />
+			<property name="Weakness" value="" />
+			<property name="Resistance" value="" />
+			<property name="Retreat Cost" value="" />
+			<property name="Energy Type" value="Basic" />
+			<property name="Rarity" value="Common" />
+		</card>
+		<card id="b51f59e8-ce13-4f1c-b967-6b7efa94bda6" name="Lightning Energy">
+			<property name="Card Type" value="Energy" />
+			<property name="Pokemon Type" value="" />
+			<property name="HP" value="0" />
+			<property name="Pokemon Stage" value="" />
+			<property name="Card Text" value="" />
+			<property name="PokeBody" value="" />
+			<property name="PokeBody Text" value="" />
+			<property name="PokePower" value="0" />
+			<property name="PokePower Text" value="" />
+			<property name="Ability" value="" />
+			<property name="AtkName1" value="0" />
+			<property name="AtkPower1" value="" />
+			<property name="AtkText1" value="" />
+			<property name="AtkName2" value="0" />
+			<property name="AtkPower2" value="" />
+			<property name="AtkText2" value="" />
+			<property name="AtkName3" value="0" />
+			<property name="AtkPower3" value="" />
+			<property name="AtkText3" value="" />
+			<property name="Weakness" value="" />
+			<property name="Resistance" value="" />
+			<property name="Retreat Cost" value="" />
+			<property name="Energy Type" value="Basic" />
+			<property name="Rarity" value="Common" />
+		</card>
+		<card id="93d93240-0544-4e6e-94cf-2bb8854f6d92" name="Psychic Energy">
+			<property name="Card Type" value="Energy" />
+			<property name="Pokemon Type" value="" />
+			<property name="HP" value="0" />
+			<property name="Pokemon Stage" value="" />
+			<property name="Card Text" value="" />
+			<property name="PokeBody" value="" />
+			<property name="PokeBody Text" value="" />
+			<property name="PokePower" value="0" />
+			<property name="PokePower Text" value="" />
+			<property name="Ability" value="" />
+			<property name="AtkName1" value="0" />
+			<property name="AtkPower1" value="" />
+			<property name="AtkText1" value="" />
+			<property name="AtkName2" value="0" />
+			<property name="AtkPower2" value="" />
+			<property name="AtkText2" value="" />
+			<property name="AtkName3" value="0" />
+			<property name="AtkPower3" value="" />
+			<property name="AtkText3" value="" />
+			<property name="Weakness" value="" />
+			<property name="Resistance" value="" />
+			<property name="Retreat Cost" value="" />
+			<property name="Energy Type" value="Basic" />
+			<property name="Rarity" value="Common" />
+		</card>
+		<card id="d1d0f70e-7810-4514-b79e-cb152670aea5" name="Water Energy">
+			<property name="Card Type" value="Energy" />
+			<property name="Pokemon Type" value="" />
+			<property name="HP" value="0" />
+			<property name="Pokemon Stage" value="" />
+			<property name="Card Text" value="" />
+			<property name="PokeBody" value="" />
+			<property name="PokeBody Text" value="" />
+			<property name="PokePower" value="0" />
+			<property name="PokePower Text" value="" />
+			<property name="Ability" value="" />
+			<property name="AtkName1" value="0" />
+			<property name="AtkPower1" value="" />
+			<property name="AtkText1" value="" />
+			<property name="AtkName2" value="0" />
+			<property name="AtkPower2" value="" />
+			<property name="AtkText2" value="" />
+			<property name="AtkName3" value="0" />
+			<property name="AtkPower3" value="" />
+			<property name="AtkText3" value="" />
+			<property name="Weakness" value="" />
+			<property name="Resistance" value="" />
+			<property name="Retreat Cost" value="" />
+			<property name="Energy Type" value="Basic" />
+			<property name="Rarity" value="Common" />
+		</card>
+	</cards>
+</set>
